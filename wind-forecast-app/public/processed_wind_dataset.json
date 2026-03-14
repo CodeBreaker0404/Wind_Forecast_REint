@@ -1,0 +1,7682 @@
+[
+  {
+    "startTime": "2024-01-01 00:00:00",
+    "generation_actual": 10402,
+    "generation_forecast": 11453.0
+  },
+  {
+    "startTime": "2024-01-01 00:30:00",
+    "generation_actual": 10845,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 01:00:00",
+    "generation_actual": 11218,
+    "generation_forecast": 11838.0
+  },
+  {
+    "startTime": "2024-01-01 01:30:00",
+    "generation_actual": 11223,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 02:00:00",
+    "generation_actual": 11234,
+    "generation_forecast": 12090.0
+  },
+  {
+    "startTime": "2024-01-01 02:30:00",
+    "generation_actual": 11437,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 03:00:00",
+    "generation_actual": 11434,
+    "generation_forecast": 12428.0
+  },
+  {
+    "startTime": "2024-01-01 03:30:00",
+    "generation_actual": 11445,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 04:00:00",
+    "generation_actual": 11828,
+    "generation_forecast": 12775.0
+  },
+  {
+    "startTime": "2024-01-01 04:30:00",
+    "generation_actual": 11878,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 05:00:00",
+    "generation_actual": 12037,
+    "generation_forecast": 12877.0
+  },
+  {
+    "startTime": "2024-01-01 05:30:00",
+    "generation_actual": 12011,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 06:00:00",
+    "generation_actual": 12044,
+    "generation_forecast": 12921.0
+  },
+  {
+    "startTime": "2024-01-01 06:30:00",
+    "generation_actual": 12183,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 07:00:00",
+    "generation_actual": 12303,
+    "generation_forecast": 12969.0
+  },
+  {
+    "startTime": "2024-01-01 07:30:00",
+    "generation_actual": 12307,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 08:00:00",
+    "generation_actual": 12361,
+    "generation_forecast": 12833.0
+  },
+  {
+    "startTime": "2024-01-01 08:30:00",
+    "generation_actual": 12218,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 09:00:00",
+    "generation_actual": 12017,
+    "generation_forecast": 12554.0
+  },
+  {
+    "startTime": "2024-01-01 09:30:00",
+    "generation_actual": 11817,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 10:00:00",
+    "generation_actual": 11379,
+    "generation_forecast": 12066.0
+  },
+  {
+    "startTime": "2024-01-01 10:30:00",
+    "generation_actual": 10932,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 11:00:00",
+    "generation_actual": 10679,
+    "generation_forecast": 11458.0
+  },
+  {
+    "startTime": "2024-01-01 11:30:00",
+    "generation_actual": 10217,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 12:00:00",
+    "generation_actual": 9828,
+    "generation_forecast": 10784.0
+  },
+  {
+    "startTime": "2024-01-01 12:30:00",
+    "generation_actual": 9548,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 13:00:00",
+    "generation_actual": 8874,
+    "generation_forecast": 9595.0
+  },
+  {
+    "startTime": "2024-01-01 13:30:00",
+    "generation_actual": 8495,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 14:00:00",
+    "generation_actual": 8058,
+    "generation_forecast": 8393.0
+  },
+  {
+    "startTime": "2024-01-01 14:30:00",
+    "generation_actual": 8098,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 15:00:00",
+    "generation_actual": 8162,
+    "generation_forecast": 7274.0
+  },
+  {
+    "startTime": "2024-01-01 15:30:00",
+    "generation_actual": 8058,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 16:00:00",
+    "generation_actual": 8634,
+    "generation_forecast": 6502.0
+  },
+  {
+    "startTime": "2024-01-01 16:30:00",
+    "generation_actual": 9091,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 17:00:00",
+    "generation_actual": 9204,
+    "generation_forecast": 6067.0
+  },
+  {
+    "startTime": "2024-01-01 17:30:00",
+    "generation_actual": 9290,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 18:00:00",
+    "generation_actual": 9665,
+    "generation_forecast": 5956.0
+  },
+  {
+    "startTime": "2024-01-01 18:30:00",
+    "generation_actual": 10443,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 19:00:00",
+    "generation_actual": 11212,
+    "generation_forecast": 6668.0
+  },
+  {
+    "startTime": "2024-01-01 19:30:00",
+    "generation_actual": 12055,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 20:00:00",
+    "generation_actual": 12519,
+    "generation_forecast": 7438.0
+  },
+  {
+    "startTime": "2024-01-01 20:30:00",
+    "generation_actual": 13279,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 21:00:00",
+    "generation_actual": 13953,
+    "generation_forecast": 11730.0
+  },
+  {
+    "startTime": "2024-01-01 21:30:00",
+    "generation_actual": 13845,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 22:00:00",
+    "generation_actual": 14217,
+    "generation_forecast": 13120.0
+  },
+  {
+    "startTime": "2024-01-01 22:30:00",
+    "generation_actual": 14306,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-01 23:00:00",
+    "generation_actual": 14958,
+    "generation_forecast": 14426.0
+  },
+  {
+    "startTime": "2024-01-01 23:30:00",
+    "generation_actual": 14666,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 00:00:00",
+    "generation_actual": 14690,
+    "generation_forecast": 15364.0
+  },
+  {
+    "startTime": "2024-01-02 00:30:00",
+    "generation_actual": 14510,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 01:00:00",
+    "generation_actual": 14592,
+    "generation_forecast": 15807.0
+  },
+  {
+    "startTime": "2024-01-02 01:30:00",
+    "generation_actual": 14388,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 02:00:00",
+    "generation_actual": 14032,
+    "generation_forecast": 15888.0
+  },
+  {
+    "startTime": "2024-01-02 02:30:00",
+    "generation_actual": 13748,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 03:00:00",
+    "generation_actual": 13403,
+    "generation_forecast": 15537.0
+  },
+  {
+    "startTime": "2024-01-02 03:30:00",
+    "generation_actual": 13232,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 04:00:00",
+    "generation_actual": 13245,
+    "generation_forecast": 15028.0
+  },
+  {
+    "startTime": "2024-01-02 04:30:00",
+    "generation_actual": 13041,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 05:00:00",
+    "generation_actual": 12635,
+    "generation_forecast": 14461.0
+  },
+  {
+    "startTime": "2024-01-02 05:30:00",
+    "generation_actual": 12711,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 06:00:00",
+    "generation_actual": 12764,
+    "generation_forecast": 14048.0
+  },
+  {
+    "startTime": "2024-01-02 06:30:00",
+    "generation_actual": 12323,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 07:00:00",
+    "generation_actual": 11925,
+    "generation_forecast": 13492.0
+  },
+  {
+    "startTime": "2024-01-02 07:30:00",
+    "generation_actual": 11711,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 08:00:00",
+    "generation_actual": 11866,
+    "generation_forecast": 12938.0
+  },
+  {
+    "startTime": "2024-01-02 08:30:00",
+    "generation_actual": 12035,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 09:00:00",
+    "generation_actual": 11505,
+    "generation_forecast": 12378.0
+  },
+  {
+    "startTime": "2024-01-02 09:30:00",
+    "generation_actual": 10760,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 10:00:00",
+    "generation_actual": 10399,
+    "generation_forecast": 11633.0
+  },
+  {
+    "startTime": "2024-01-02 10:30:00",
+    "generation_actual": 9546,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 11:00:00",
+    "generation_actual": 8795,
+    "generation_forecast": 10729.0
+  },
+  {
+    "startTime": "2024-01-02 11:30:00",
+    "generation_actual": 8667,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 12:00:00",
+    "generation_actual": 8281,
+    "generation_forecast": 9778.0
+  },
+  {
+    "startTime": "2024-01-02 12:30:00",
+    "generation_actual": 7557,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 13:00:00",
+    "generation_actual": 7344,
+    "generation_forecast": 9216.0
+  },
+  {
+    "startTime": "2024-01-02 13:30:00",
+    "generation_actual": 7180,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 14:00:00",
+    "generation_actual": 7249,
+    "generation_forecast": 8783.0
+  },
+  {
+    "startTime": "2024-01-02 14:30:00",
+    "generation_actual": 7672,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 15:00:00",
+    "generation_actual": 7870,
+    "generation_forecast": 8802.0
+  },
+  {
+    "startTime": "2024-01-02 15:30:00",
+    "generation_actual": 8115,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 16:00:00",
+    "generation_actual": 8208,
+    "generation_forecast": 8869.0
+  },
+  {
+    "startTime": "2024-01-02 16:30:00",
+    "generation_actual": 8935,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 17:00:00",
+    "generation_actual": 9635,
+    "generation_forecast": 9219.0
+  },
+  {
+    "startTime": "2024-01-02 17:30:00",
+    "generation_actual": 9771,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 18:00:00",
+    "generation_actual": 10183,
+    "generation_forecast": 9757.0
+  },
+  {
+    "startTime": "2024-01-02 18:30:00",
+    "generation_actual": 10043,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 19:00:00",
+    "generation_actual": 9919,
+    "generation_forecast": 10280.0
+  },
+  {
+    "startTime": "2024-01-02 19:30:00",
+    "generation_actual": 10271,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 20:00:00",
+    "generation_actual": 11051,
+    "generation_forecast": 11162.0
+  },
+  {
+    "startTime": "2024-01-02 20:30:00",
+    "generation_actual": 11338,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 21:00:00",
+    "generation_actual": 11263,
+    "generation_forecast": 12255.0
+  },
+  {
+    "startTime": "2024-01-02 21:30:00",
+    "generation_actual": 11467,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 22:00:00",
+    "generation_actual": 11480,
+    "generation_forecast": 12280.0
+  },
+  {
+    "startTime": "2024-01-02 22:30:00",
+    "generation_actual": 11364,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-02 23:00:00",
+    "generation_actual": 10992,
+    "generation_forecast": 12296.0
+  },
+  {
+    "startTime": "2024-01-02 23:30:00",
+    "generation_actual": 10922,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 00:00:00",
+    "generation_actual": 10672,
+    "generation_forecast": 12215.0
+  },
+  {
+    "startTime": "2024-01-03 00:30:00",
+    "generation_actual": 10530,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 01:00:00",
+    "generation_actual": 10293,
+    "generation_forecast": 11935.0
+  },
+  {
+    "startTime": "2024-01-03 01:30:00",
+    "generation_actual": 10418,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 02:00:00",
+    "generation_actual": 10226,
+    "generation_forecast": 11736.0
+  },
+  {
+    "startTime": "2024-01-03 02:30:00",
+    "generation_actual": 9940,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 03:00:00",
+    "generation_actual": 10059,
+    "generation_forecast": 11588.0
+  },
+  {
+    "startTime": "2024-01-03 03:30:00",
+    "generation_actual": 9889,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 04:00:00",
+    "generation_actual": 9599,
+    "generation_forecast": 11286.0
+  },
+  {
+    "startTime": "2024-01-03 04:30:00",
+    "generation_actual": 9680,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 05:00:00",
+    "generation_actual": 9463,
+    "generation_forecast": 10886.0
+  },
+  {
+    "startTime": "2024-01-03 05:30:00",
+    "generation_actual": 9484,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 06:00:00",
+    "generation_actual": 9387,
+    "generation_forecast": 10514.0
+  },
+  {
+    "startTime": "2024-01-03 06:30:00",
+    "generation_actual": 9326,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 07:00:00",
+    "generation_actual": 8927,
+    "generation_forecast": 10167.0
+  },
+  {
+    "startTime": "2024-01-03 07:30:00",
+    "generation_actual": 8565,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 08:00:00",
+    "generation_actual": 8396,
+    "generation_forecast": 9874.0
+  },
+  {
+    "startTime": "2024-01-03 08:30:00",
+    "generation_actual": 7841,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 09:00:00",
+    "generation_actual": 7245,
+    "generation_forecast": 9633.0
+  },
+  {
+    "startTime": "2024-01-03 09:30:00",
+    "generation_actual": 6934,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 10:00:00",
+    "generation_actual": 6794,
+    "generation_forecast": 9503.0
+  },
+  {
+    "startTime": "2024-01-03 10:30:00",
+    "generation_actual": 6620,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 11:00:00",
+    "generation_actual": 6484,
+    "generation_forecast": 9232.0
+  },
+  {
+    "startTime": "2024-01-03 11:30:00",
+    "generation_actual": 6258,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 12:00:00",
+    "generation_actual": 6200,
+    "generation_forecast": 8866.0
+  },
+  {
+    "startTime": "2024-01-03 12:30:00",
+    "generation_actual": 6088,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 13:00:00",
+    "generation_actual": 5823,
+    "generation_forecast": 8791.0
+  },
+  {
+    "startTime": "2024-01-03 13:30:00",
+    "generation_actual": 5825,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 14:00:00",
+    "generation_actual": 5928,
+    "generation_forecast": 8357.0
+  },
+  {
+    "startTime": "2024-01-03 14:30:00",
+    "generation_actual": 5826,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 15:00:00",
+    "generation_actual": 6052,
+    "generation_forecast": 8359.0
+  },
+  {
+    "startTime": "2024-01-03 15:30:00",
+    "generation_actual": 6367,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 16:00:00",
+    "generation_actual": 6591,
+    "generation_forecast": 8699.0
+  },
+  {
+    "startTime": "2024-01-03 16:30:00",
+    "generation_actual": 6805,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 17:00:00",
+    "generation_actual": 7044,
+    "generation_forecast": 9085.0
+  },
+  {
+    "startTime": "2024-01-03 17:30:00",
+    "generation_actual": 7119,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 18:00:00",
+    "generation_actual": 7192,
+    "generation_forecast": 9393.0
+  },
+  {
+    "startTime": "2024-01-03 18:30:00",
+    "generation_actual": 7171,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 19:00:00",
+    "generation_actual": 7131,
+    "generation_forecast": 9885.0
+  },
+  {
+    "startTime": "2024-01-03 19:30:00",
+    "generation_actual": 7150,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 20:00:00",
+    "generation_actual": 7039,
+    "generation_forecast": 10276.0
+  },
+  {
+    "startTime": "2024-01-03 20:30:00",
+    "generation_actual": 7005,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 21:00:00",
+    "generation_actual": 6945,
+    "generation_forecast": 8618.0
+  },
+  {
+    "startTime": "2024-01-03 21:30:00",
+    "generation_actual": 6773,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 22:00:00",
+    "generation_actual": 6611,
+    "generation_forecast": 8857.0
+  },
+  {
+    "startTime": "2024-01-03 22:30:00",
+    "generation_actual": 6680,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-03 23:00:00",
+    "generation_actual": 6813,
+    "generation_forecast": 8926.0
+  },
+  {
+    "startTime": "2024-01-03 23:30:00",
+    "generation_actual": 6793,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 00:00:00",
+    "generation_actual": 7112,
+    "generation_forecast": 9132.0
+  },
+  {
+    "startTime": "2024-01-04 00:30:00",
+    "generation_actual": 7536,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 01:00:00",
+    "generation_actual": 7743,
+    "generation_forecast": 9115.0
+  },
+  {
+    "startTime": "2024-01-04 01:30:00",
+    "generation_actual": 8071,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 02:00:00",
+    "generation_actual": 8269,
+    "generation_forecast": 9084.0
+  },
+  {
+    "startTime": "2024-01-04 02:30:00",
+    "generation_actual": 8255,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 03:00:00",
+    "generation_actual": 8118,
+    "generation_forecast": 9120.0
+  },
+  {
+    "startTime": "2024-01-04 03:30:00",
+    "generation_actual": 7866,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 04:00:00",
+    "generation_actual": 7666,
+    "generation_forecast": 9018.0
+  },
+  {
+    "startTime": "2024-01-04 04:30:00",
+    "generation_actual": 7708,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 05:00:00",
+    "generation_actual": 7859,
+    "generation_forecast": 8681.0
+  },
+  {
+    "startTime": "2024-01-04 05:30:00",
+    "generation_actual": 8218,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 06:00:00",
+    "generation_actual": 8359,
+    "generation_forecast": 8315.0
+  },
+  {
+    "startTime": "2024-01-04 06:30:00",
+    "generation_actual": 8212,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 07:00:00",
+    "generation_actual": 7815,
+    "generation_forecast": 7889.0
+  },
+  {
+    "startTime": "2024-01-04 07:30:00",
+    "generation_actual": 7266,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 08:00:00",
+    "generation_actual": 6880,
+    "generation_forecast": 7355.0
+  },
+  {
+    "startTime": "2024-01-04 08:30:00",
+    "generation_actual": 6898,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 09:00:00",
+    "generation_actual": 6841,
+    "generation_forecast": 7021.0
+  },
+  {
+    "startTime": "2024-01-04 09:30:00",
+    "generation_actual": 6731,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 10:00:00",
+    "generation_actual": 6394,
+    "generation_forecast": 6550.0
+  },
+  {
+    "startTime": "2024-01-04 10:30:00",
+    "generation_actual": 6032,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 11:00:00",
+    "generation_actual": 5193,
+    "generation_forecast": 5940.0
+  },
+  {
+    "startTime": "2024-01-04 11:30:00",
+    "generation_actual": 4691,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 12:00:00",
+    "generation_actual": 4421,
+    "generation_forecast": 5088.0
+  },
+  {
+    "startTime": "2024-01-04 12:30:00",
+    "generation_actual": 4091,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 13:00:00",
+    "generation_actual": 3544,
+    "generation_forecast": 4194.0
+  },
+  {
+    "startTime": "2024-01-04 13:30:00",
+    "generation_actual": 3291,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 14:00:00",
+    "generation_actual": 3394,
+    "generation_forecast": 3572.0
+  },
+  {
+    "startTime": "2024-01-04 14:30:00",
+    "generation_actual": 3168,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 15:00:00",
+    "generation_actual": 2988,
+    "generation_forecast": 3131.0
+  },
+  {
+    "startTime": "2024-01-04 15:30:00",
+    "generation_actual": 3004,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 16:00:00",
+    "generation_actual": 3039,
+    "generation_forecast": 2973.0
+  },
+  {
+    "startTime": "2024-01-04 16:30:00",
+    "generation_actual": 3074,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 17:00:00",
+    "generation_actual": 3204,
+    "generation_forecast": 3003.0
+  },
+  {
+    "startTime": "2024-01-04 17:30:00",
+    "generation_actual": 3277,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 18:00:00",
+    "generation_actual": 3862,
+    "generation_forecast": 3177.0
+  },
+  {
+    "startTime": "2024-01-04 18:30:00",
+    "generation_actual": 4177,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 19:00:00",
+    "generation_actual": 4459,
+    "generation_forecast": 3286.0
+  },
+  {
+    "startTime": "2024-01-04 19:30:00",
+    "generation_actual": 4669,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 20:00:00",
+    "generation_actual": 4751,
+    "generation_forecast": 3392.0
+  },
+  {
+    "startTime": "2024-01-04 20:30:00",
+    "generation_actual": 5048,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 21:00:00",
+    "generation_actual": 5331,
+    "generation_forecast": 4840.0
+  },
+  {
+    "startTime": "2024-01-04 21:30:00",
+    "generation_actual": 5361,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 22:00:00",
+    "generation_actual": 5052,
+    "generation_forecast": 5283.0
+  },
+  {
+    "startTime": "2024-01-04 22:30:00",
+    "generation_actual": 5148,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-04 23:00:00",
+    "generation_actual": 5263,
+    "generation_forecast": 6232.0
+  },
+  {
+    "startTime": "2024-01-04 23:30:00",
+    "generation_actual": 5428,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 00:00:00",
+    "generation_actual": 5740,
+    "generation_forecast": 6947.0
+  },
+  {
+    "startTime": "2024-01-05 00:30:00",
+    "generation_actual": 5799,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 01:00:00",
+    "generation_actual": 5813,
+    "generation_forecast": 7543.0
+  },
+  {
+    "startTime": "2024-01-05 01:30:00",
+    "generation_actual": 6007,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 02:00:00",
+    "generation_actual": 5990,
+    "generation_forecast": 7703.0
+  },
+  {
+    "startTime": "2024-01-05 02:30:00",
+    "generation_actual": 6535,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 03:00:00",
+    "generation_actual": 6547,
+    "generation_forecast": 7889.0
+  },
+  {
+    "startTime": "2024-01-05 03:30:00",
+    "generation_actual": 6637,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 04:00:00",
+    "generation_actual": 6416,
+    "generation_forecast": 7904.0
+  },
+  {
+    "startTime": "2024-01-05 04:30:00",
+    "generation_actual": 6393,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 05:00:00",
+    "generation_actual": 6485,
+    "generation_forecast": 7782.0
+  },
+  {
+    "startTime": "2024-01-05 05:30:00",
+    "generation_actual": 7266,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 06:00:00",
+    "generation_actual": 7916,
+    "generation_forecast": 8101.0
+  },
+  {
+    "startTime": "2024-01-05 06:30:00",
+    "generation_actual": 8154,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 07:00:00",
+    "generation_actual": 8250,
+    "generation_forecast": 8211.0
+  },
+  {
+    "startTime": "2024-01-05 07:30:00",
+    "generation_actual": 8265,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 08:00:00",
+    "generation_actual": 8316,
+    "generation_forecast": 8260.0
+  },
+  {
+    "startTime": "2024-01-05 08:30:00",
+    "generation_actual": 8672,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 09:00:00",
+    "generation_actual": 8545,
+    "generation_forecast": 8396.0
+  },
+  {
+    "startTime": "2024-01-05 09:30:00",
+    "generation_actual": 8173,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 10:00:00",
+    "generation_actual": 8007,
+    "generation_forecast": 8436.0
+  },
+  {
+    "startTime": "2024-01-05 10:30:00",
+    "generation_actual": 7973,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 11:00:00",
+    "generation_actual": 8164,
+    "generation_forecast": 8360.0
+  },
+  {
+    "startTime": "2024-01-05 11:30:00",
+    "generation_actual": 8430,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 12:00:00",
+    "generation_actual": 8539,
+    "generation_forecast": 8255.0
+  },
+  {
+    "startTime": "2024-01-05 12:30:00",
+    "generation_actual": 8670,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 13:00:00",
+    "generation_actual": 8724,
+    "generation_forecast": 8198.0
+  },
+  {
+    "startTime": "2024-01-05 13:30:00",
+    "generation_actual": 8771,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 14:00:00",
+    "generation_actual": 8984,
+    "generation_forecast": 8250.0
+  },
+  {
+    "startTime": "2024-01-05 14:30:00",
+    "generation_actual": 8839,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 15:00:00",
+    "generation_actual": 8657,
+    "generation_forecast": 8108.0
+  },
+  {
+    "startTime": "2024-01-05 15:30:00",
+    "generation_actual": 8476,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 16:00:00",
+    "generation_actual": 8416,
+    "generation_forecast": 7820.0
+  },
+  {
+    "startTime": "2024-01-05 16:30:00",
+    "generation_actual": 8259,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 17:00:00",
+    "generation_actual": 7986,
+    "generation_forecast": 7960.0
+  },
+  {
+    "startTime": "2024-01-05 17:30:00",
+    "generation_actual": 7852,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 18:00:00",
+    "generation_actual": 7790,
+    "generation_forecast": 7929.0
+  },
+  {
+    "startTime": "2024-01-05 18:30:00",
+    "generation_actual": 7484,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 19:00:00",
+    "generation_actual": 7236,
+    "generation_forecast": 7645.0
+  },
+  {
+    "startTime": "2024-01-05 19:30:00",
+    "generation_actual": 7284,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 20:00:00",
+    "generation_actual": 7104,
+    "generation_forecast": 7534.0
+  },
+  {
+    "startTime": "2024-01-05 20:30:00",
+    "generation_actual": 6659,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 21:00:00",
+    "generation_actual": 6579,
+    "generation_forecast": 6864.0
+  },
+  {
+    "startTime": "2024-01-05 21:30:00",
+    "generation_actual": 6555,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 22:00:00",
+    "generation_actual": 6280,
+    "generation_forecast": 6657.0
+  },
+  {
+    "startTime": "2024-01-05 22:30:00",
+    "generation_actual": 6020,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-05 23:00:00",
+    "generation_actual": 5845,
+    "generation_forecast": 6570.0
+  },
+  {
+    "startTime": "2024-01-05 23:30:00",
+    "generation_actual": 5746,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 00:00:00",
+    "generation_actual": 5741,
+    "generation_forecast": 6590.0
+  },
+  {
+    "startTime": "2024-01-06 00:30:00",
+    "generation_actual": 5860,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 01:00:00",
+    "generation_actual": 5877,
+    "generation_forecast": 6373.0
+  },
+  {
+    "startTime": "2024-01-06 01:30:00",
+    "generation_actual": 6004,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 02:00:00",
+    "generation_actual": 6107,
+    "generation_forecast": 6575.0
+  },
+  {
+    "startTime": "2024-01-06 02:30:00",
+    "generation_actual": 6127,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 03:00:00",
+    "generation_actual": 6074,
+    "generation_forecast": 6457.0
+  },
+  {
+    "startTime": "2024-01-06 03:30:00",
+    "generation_actual": 5968,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 04:00:00",
+    "generation_actual": 5871,
+    "generation_forecast": 6410.0
+  },
+  {
+    "startTime": "2024-01-06 04:30:00",
+    "generation_actual": 5784,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 05:00:00",
+    "generation_actual": 5734,
+    "generation_forecast": 6524.0
+  },
+  {
+    "startTime": "2024-01-06 05:30:00",
+    "generation_actual": 5687,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 06:00:00",
+    "generation_actual": 5712,
+    "generation_forecast": 6631.0
+  },
+  {
+    "startTime": "2024-01-06 06:30:00",
+    "generation_actual": 5868,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 07:00:00",
+    "generation_actual": 6033,
+    "generation_forecast": 6390.0
+  },
+  {
+    "startTime": "2024-01-06 07:30:00",
+    "generation_actual": 5887,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 08:00:00",
+    "generation_actual": 5771,
+    "generation_forecast": 6442.0
+  },
+  {
+    "startTime": "2024-01-06 08:30:00",
+    "generation_actual": 5610,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 09:00:00",
+    "generation_actual": 5244,
+    "generation_forecast": 6517.0
+  },
+  {
+    "startTime": "2024-01-06 09:30:00",
+    "generation_actual": 5113,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 10:00:00",
+    "generation_actual": 4940,
+    "generation_forecast": 6359.0
+  },
+  {
+    "startTime": "2024-01-06 10:30:00",
+    "generation_actual": 4782,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 11:00:00",
+    "generation_actual": 4696,
+    "generation_forecast": 6332.0
+  },
+  {
+    "startTime": "2024-01-06 11:30:00",
+    "generation_actual": 4599,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 12:00:00",
+    "generation_actual": 4362,
+    "generation_forecast": 6235.0
+  },
+  {
+    "startTime": "2024-01-06 12:30:00",
+    "generation_actual": 4529,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 13:00:00",
+    "generation_actual": 4591,
+    "generation_forecast": 6463.0
+  },
+  {
+    "startTime": "2024-01-06 13:30:00",
+    "generation_actual": 4683,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 14:00:00",
+    "generation_actual": 4539,
+    "generation_forecast": 6627.0
+  },
+  {
+    "startTime": "2024-01-06 14:30:00",
+    "generation_actual": 4613,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 15:00:00",
+    "generation_actual": 4631,
+    "generation_forecast": 6747.0
+  },
+  {
+    "startTime": "2024-01-06 15:30:00",
+    "generation_actual": 4864,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 16:00:00",
+    "generation_actual": 5248,
+    "generation_forecast": 6772.0
+  },
+  {
+    "startTime": "2024-01-06 16:30:00",
+    "generation_actual": 5194,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 17:00:00",
+    "generation_actual": 5212,
+    "generation_forecast": 6830.0
+  },
+  {
+    "startTime": "2024-01-06 17:30:00",
+    "generation_actual": 5203,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 18:00:00",
+    "generation_actual": 5050,
+    "generation_forecast": 6815.0
+  },
+  {
+    "startTime": "2024-01-06 18:30:00",
+    "generation_actual": 4778,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 19:00:00",
+    "generation_actual": 4878,
+    "generation_forecast": 6594.0
+  },
+  {
+    "startTime": "2024-01-06 19:30:00",
+    "generation_actual": 4946,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 20:00:00",
+    "generation_actual": 5132,
+    "generation_forecast": 6488.0
+  },
+  {
+    "startTime": "2024-01-06 20:30:00",
+    "generation_actual": 4911,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 21:00:00",
+    "generation_actual": 4916,
+    "generation_forecast": 5924.0
+  },
+  {
+    "startTime": "2024-01-06 21:30:00",
+    "generation_actual": 4906,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 22:00:00",
+    "generation_actual": 5090,
+    "generation_forecast": 6014.0
+  },
+  {
+    "startTime": "2024-01-06 22:30:00",
+    "generation_actual": 5275,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-06 23:00:00",
+    "generation_actual": 5175,
+    "generation_forecast": 6149.0
+  },
+  {
+    "startTime": "2024-01-06 23:30:00",
+    "generation_actual": 5390,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 00:00:00",
+    "generation_actual": 5708,
+    "generation_forecast": 6235.0
+  },
+  {
+    "startTime": "2024-01-07 00:30:00",
+    "generation_actual": 5552,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 01:00:00",
+    "generation_actual": 5803,
+    "generation_forecast": 6292.0
+  },
+  {
+    "startTime": "2024-01-07 01:30:00",
+    "generation_actual": 5946,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 02:00:00",
+    "generation_actual": 5904,
+    "generation_forecast": 6311.0
+  },
+  {
+    "startTime": "2024-01-07 02:30:00",
+    "generation_actual": 5770,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 03:00:00",
+    "generation_actual": 5881,
+    "generation_forecast": 6274.0
+  },
+  {
+    "startTime": "2024-01-07 03:30:00",
+    "generation_actual": 6176,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 04:00:00",
+    "generation_actual": 6342,
+    "generation_forecast": 6360.0
+  },
+  {
+    "startTime": "2024-01-07 04:30:00",
+    "generation_actual": 6066,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 05:00:00",
+    "generation_actual": 6290,
+    "generation_forecast": 6321.0
+  },
+  {
+    "startTime": "2024-01-07 05:30:00",
+    "generation_actual": 6434,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 06:00:00",
+    "generation_actual": 6402,
+    "generation_forecast": 6166.0
+  },
+  {
+    "startTime": "2024-01-07 06:30:00",
+    "generation_actual": 6440,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 07:00:00",
+    "generation_actual": 6138,
+    "generation_forecast": 6022.0
+  },
+  {
+    "startTime": "2024-01-07 07:30:00",
+    "generation_actual": 6109,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 08:00:00",
+    "generation_actual": 6044,
+    "generation_forecast": 5766.0
+  },
+  {
+    "startTime": "2024-01-07 08:30:00",
+    "generation_actual": 5612,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 09:00:00",
+    "generation_actual": 5549,
+    "generation_forecast": 5570.0
+  },
+  {
+    "startTime": "2024-01-07 09:30:00",
+    "generation_actual": 5385,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 10:00:00",
+    "generation_actual": 5311,
+    "generation_forecast": 5275.0
+  },
+  {
+    "startTime": "2024-01-07 10:30:00",
+    "generation_actual": 5015,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 11:00:00",
+    "generation_actual": 4848,
+    "generation_forecast": 4899.0
+  },
+  {
+    "startTime": "2024-01-07 11:30:00",
+    "generation_actual": 4648,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 12:00:00",
+    "generation_actual": 4435,
+    "generation_forecast": 4657.0
+  },
+  {
+    "startTime": "2024-01-07 12:30:00",
+    "generation_actual": 4391,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 13:00:00",
+    "generation_actual": 4437,
+    "generation_forecast": 4556.0
+  },
+  {
+    "startTime": "2024-01-07 13:30:00",
+    "generation_actual": 4327,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 14:00:00",
+    "generation_actual": 4332,
+    "generation_forecast": 4474.0
+  },
+  {
+    "startTime": "2024-01-07 14:30:00",
+    "generation_actual": 4352,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 15:00:00",
+    "generation_actual": 4325,
+    "generation_forecast": 4459.0
+  },
+  {
+    "startTime": "2024-01-07 15:30:00",
+    "generation_actual": 4315,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 16:00:00",
+    "generation_actual": 4299,
+    "generation_forecast": 4471.0
+  },
+  {
+    "startTime": "2024-01-07 16:30:00",
+    "generation_actual": 4305,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 17:00:00",
+    "generation_actual": 4316,
+    "generation_forecast": 4456.0
+  },
+  {
+    "startTime": "2024-01-07 17:30:00",
+    "generation_actual": 4325,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 18:00:00",
+    "generation_actual": 4324,
+    "generation_forecast": 4535.0
+  },
+  {
+    "startTime": "2024-01-07 18:30:00",
+    "generation_actual": 4281,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 19:00:00",
+    "generation_actual": 4202,
+    "generation_forecast": 4545.0
+  },
+  {
+    "startTime": "2024-01-07 19:30:00",
+    "generation_actual": 4169,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 20:00:00",
+    "generation_actual": 4032,
+    "generation_forecast": 4591.0
+  },
+  {
+    "startTime": "2024-01-07 20:30:00",
+    "generation_actual": 4017,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 21:00:00",
+    "generation_actual": 3992,
+    "generation_forecast": 4138.0
+  },
+  {
+    "startTime": "2024-01-07 21:30:00",
+    "generation_actual": 4030,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 22:00:00",
+    "generation_actual": 3994,
+    "generation_forecast": 4075.0
+  },
+  {
+    "startTime": "2024-01-07 22:30:00",
+    "generation_actual": 4100,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-07 23:00:00",
+    "generation_actual": 4242,
+    "generation_forecast": 4245.0
+  },
+  {
+    "startTime": "2024-01-07 23:30:00",
+    "generation_actual": 4275,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 00:00:00",
+    "generation_actual": 4629,
+    "generation_forecast": 4578.0
+  },
+  {
+    "startTime": "2024-01-08 00:30:00",
+    "generation_actual": 4730,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 01:00:00",
+    "generation_actual": 5033,
+    "generation_forecast": 4805.0
+  },
+  {
+    "startTime": "2024-01-08 01:30:00",
+    "generation_actual": 5215,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 02:00:00",
+    "generation_actual": 5342,
+    "generation_forecast": 5087.0
+  },
+  {
+    "startTime": "2024-01-08 02:30:00",
+    "generation_actual": 6043,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 03:00:00",
+    "generation_actual": 6274,
+    "generation_forecast": 5479.0
+  },
+  {
+    "startTime": "2024-01-08 03:30:00",
+    "generation_actual": 6533,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 04:00:00",
+    "generation_actual": 6980,
+    "generation_forecast": 5772.0
+  },
+  {
+    "startTime": "2024-01-08 04:30:00",
+    "generation_actual": 6945,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 05:00:00",
+    "generation_actual": 7381,
+    "generation_forecast": 6485.0
+  },
+  {
+    "startTime": "2024-01-08 05:30:00",
+    "generation_actual": 7292,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 06:00:00",
+    "generation_actual": 7472,
+    "generation_forecast": 6950.0
+  },
+  {
+    "startTime": "2024-01-08 06:30:00",
+    "generation_actual": 7502,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 07:00:00",
+    "generation_actual": 7640,
+    "generation_forecast": 7285.0
+  },
+  {
+    "startTime": "2024-01-08 07:30:00",
+    "generation_actual": 8031,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 08:00:00",
+    "generation_actual": 8230,
+    "generation_forecast": 7963.0
+  },
+  {
+    "startTime": "2024-01-08 08:30:00",
+    "generation_actual": 8551,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 09:00:00",
+    "generation_actual": 8833,
+    "generation_forecast": 8404.0
+  },
+  {
+    "startTime": "2024-01-08 09:30:00",
+    "generation_actual": 9199,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 10:00:00",
+    "generation_actual": 9334,
+    "generation_forecast": 8785.0
+  },
+  {
+    "startTime": "2024-01-08 10:30:00",
+    "generation_actual": 9545,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 11:00:00",
+    "generation_actual": 9777,
+    "generation_forecast": 8648.0
+  },
+  {
+    "startTime": "2024-01-08 11:30:00",
+    "generation_actual": 9986,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 12:00:00",
+    "generation_actual": 10111,
+    "generation_forecast": 8523.0
+  },
+  {
+    "startTime": "2024-01-08 12:30:00",
+    "generation_actual": 10163,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 13:00:00",
+    "generation_actual": 10469,
+    "generation_forecast": 8343.0
+  },
+  {
+    "startTime": "2024-01-08 13:30:00",
+    "generation_actual": 10499,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 14:00:00",
+    "generation_actual": 10377,
+    "generation_forecast": 8453.0
+  },
+  {
+    "startTime": "2024-01-08 14:30:00",
+    "generation_actual": 10226,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 15:00:00",
+    "generation_actual": 10317,
+    "generation_forecast": 8635.0
+  },
+  {
+    "startTime": "2024-01-08 15:30:00",
+    "generation_actual": 10616,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 16:00:00",
+    "generation_actual": 10769,
+    "generation_forecast": 8913.0
+  },
+  {
+    "startTime": "2024-01-08 16:30:00",
+    "generation_actual": 10783,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 17:00:00",
+    "generation_actual": 10919,
+    "generation_forecast": 9307.0
+  },
+  {
+    "startTime": "2024-01-08 17:30:00",
+    "generation_actual": 11535,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 18:00:00",
+    "generation_actual": 11362,
+    "generation_forecast": 9573.0
+  },
+  {
+    "startTime": "2024-01-08 18:30:00",
+    "generation_actual": 11439,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 19:00:00",
+    "generation_actual": 11412,
+    "generation_forecast": 9627.0
+  },
+  {
+    "startTime": "2024-01-08 19:30:00",
+    "generation_actual": 11371,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 20:00:00",
+    "generation_actual": 11536,
+    "generation_forecast": 9492.0
+  },
+  {
+    "startTime": "2024-01-08 20:30:00",
+    "generation_actual": 11592,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 21:00:00",
+    "generation_actual": 11660,
+    "generation_forecast": 10297.0
+  },
+  {
+    "startTime": "2024-01-08 21:30:00",
+    "generation_actual": 11738,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 22:00:00",
+    "generation_actual": 11616,
+    "generation_forecast": 10098.0
+  },
+  {
+    "startTime": "2024-01-08 22:30:00",
+    "generation_actual": 11782,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-08 23:00:00",
+    "generation_actual": 11895,
+    "generation_forecast": 9958.0
+  },
+  {
+    "startTime": "2024-01-08 23:30:00",
+    "generation_actual": 11909,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 00:00:00",
+    "generation_actual": 11819,
+    "generation_forecast": 9836.0
+  },
+  {
+    "startTime": "2024-01-09 00:30:00",
+    "generation_actual": 11652,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 01:00:00",
+    "generation_actual": 11440,
+    "generation_forecast": 9619.0
+  },
+  {
+    "startTime": "2024-01-09 01:30:00",
+    "generation_actual": 11277,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 02:00:00",
+    "generation_actual": 11298,
+    "generation_forecast": 9367.0
+  },
+  {
+    "startTime": "2024-01-09 02:30:00",
+    "generation_actual": 11381,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 03:00:00",
+    "generation_actual": 11356,
+    "generation_forecast": 9084.0
+  },
+  {
+    "startTime": "2024-01-09 03:30:00",
+    "generation_actual": 11480,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 04:00:00",
+    "generation_actual": 11574,
+    "generation_forecast": 8813.0
+  },
+  {
+    "startTime": "2024-01-09 04:30:00",
+    "generation_actual": 11558,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 05:00:00",
+    "generation_actual": 11483,
+    "generation_forecast": 8865.0
+  },
+  {
+    "startTime": "2024-01-09 05:30:00",
+    "generation_actual": 11558,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 06:00:00",
+    "generation_actual": 11659,
+    "generation_forecast": 9049.0
+  },
+  {
+    "startTime": "2024-01-09 06:30:00",
+    "generation_actual": 11944,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 07:00:00",
+    "generation_actual": 12192,
+    "generation_forecast": 9181.0
+  },
+  {
+    "startTime": "2024-01-09 07:30:00",
+    "generation_actual": 12320,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 08:00:00",
+    "generation_actual": 12298,
+    "generation_forecast": 9330.0
+  },
+  {
+    "startTime": "2024-01-09 08:30:00",
+    "generation_actual": 12385,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 09:00:00",
+    "generation_actual": 12411,
+    "generation_forecast": 9425.0
+  },
+  {
+    "startTime": "2024-01-09 09:30:00",
+    "generation_actual": 12380,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 10:00:00",
+    "generation_actual": 12481,
+    "generation_forecast": 9495.0
+  },
+  {
+    "startTime": "2024-01-09 10:30:00",
+    "generation_actual": 12374,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 11:00:00",
+    "generation_actual": 12275,
+    "generation_forecast": 9371.0
+  },
+  {
+    "startTime": "2024-01-09 11:30:00",
+    "generation_actual": 12042,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 12:00:00",
+    "generation_actual": 11866,
+    "generation_forecast": 9182.0
+  },
+  {
+    "startTime": "2024-01-09 12:30:00",
+    "generation_actual": 11886,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 13:00:00",
+    "generation_actual": 11806,
+    "generation_forecast": 9130.0
+  },
+  {
+    "startTime": "2024-01-09 13:30:00",
+    "generation_actual": 11550,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 14:00:00",
+    "generation_actual": 11493,
+    "generation_forecast": 9037.0
+  },
+  {
+    "startTime": "2024-01-09 14:30:00",
+    "generation_actual": 11161,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 15:00:00",
+    "generation_actual": 10939,
+    "generation_forecast": 8963.0
+  },
+  {
+    "startTime": "2024-01-09 15:30:00",
+    "generation_actual": 11024,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 16:00:00",
+    "generation_actual": 11052,
+    "generation_forecast": 9115.0
+  },
+  {
+    "startTime": "2024-01-09 16:30:00",
+    "generation_actual": 11000,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 17:00:00",
+    "generation_actual": 11135,
+    "generation_forecast": 9363.0
+  },
+  {
+    "startTime": "2024-01-09 17:30:00",
+    "generation_actual": 11313,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 18:00:00",
+    "generation_actual": 11240,
+    "generation_forecast": 9325.0
+  },
+  {
+    "startTime": "2024-01-09 18:30:00",
+    "generation_actual": 11395,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 19:00:00",
+    "generation_actual": 11476,
+    "generation_forecast": 9033.0
+  },
+  {
+    "startTime": "2024-01-09 19:30:00",
+    "generation_actual": 11504,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 20:00:00",
+    "generation_actual": 11428,
+    "generation_forecast": 8697.0
+  },
+  {
+    "startTime": "2024-01-09 20:30:00",
+    "generation_actual": 11228,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 21:00:00",
+    "generation_actual": 11128,
+    "generation_forecast": 8854.0
+  },
+  {
+    "startTime": "2024-01-09 21:30:00",
+    "generation_actual": 10915,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 22:00:00",
+    "generation_actual": 11005,
+    "generation_forecast": 8370.0
+  },
+  {
+    "startTime": "2024-01-09 22:30:00",
+    "generation_actual": 10866,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-09 23:00:00",
+    "generation_actual": 10685,
+    "generation_forecast": 7946.0
+  },
+  {
+    "startTime": "2024-01-09 23:30:00",
+    "generation_actual": 10364,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 00:00:00",
+    "generation_actual": 10003,
+    "generation_forecast": 7616.0
+  },
+  {
+    "startTime": "2024-01-10 00:30:00",
+    "generation_actual": 9663,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 01:00:00",
+    "generation_actual": 9662,
+    "generation_forecast": 7455.0
+  },
+  {
+    "startTime": "2024-01-10 01:30:00",
+    "generation_actual": 9498,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 02:00:00",
+    "generation_actual": 8765,
+    "generation_forecast": 7198.0
+  },
+  {
+    "startTime": "2024-01-10 02:30:00",
+    "generation_actual": 8269,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 03:00:00",
+    "generation_actual": 7933,
+    "generation_forecast": 6887.0
+  },
+  {
+    "startTime": "2024-01-10 03:30:00",
+    "generation_actual": 7910,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 04:00:00",
+    "generation_actual": 7728,
+    "generation_forecast": 6723.0
+  },
+  {
+    "startTime": "2024-01-10 04:30:00",
+    "generation_actual": 7581,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 05:00:00",
+    "generation_actual": 7538,
+    "generation_forecast": 6735.0
+  },
+  {
+    "startTime": "2024-01-10 05:30:00",
+    "generation_actual": 7423,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 06:00:00",
+    "generation_actual": 7277,
+    "generation_forecast": 6844.0
+  },
+  {
+    "startTime": "2024-01-10 06:30:00",
+    "generation_actual": 7070,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 07:00:00",
+    "generation_actual": 6908,
+    "generation_forecast": 6720.0
+  },
+  {
+    "startTime": "2024-01-10 07:30:00",
+    "generation_actual": 6740,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 08:00:00",
+    "generation_actual": 6625,
+    "generation_forecast": 6617.0
+  },
+  {
+    "startTime": "2024-01-10 08:30:00",
+    "generation_actual": 6547,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 09:00:00",
+    "generation_actual": 6420,
+    "generation_forecast": 6505.0
+  },
+  {
+    "startTime": "2024-01-10 09:30:00",
+    "generation_actual": 6497,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 10:00:00",
+    "generation_actual": 6564,
+    "generation_forecast": 6350.0
+  },
+  {
+    "startTime": "2024-01-10 10:30:00",
+    "generation_actual": 6734,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 11:00:00",
+    "generation_actual": 6752,
+    "generation_forecast": 6263.0
+  },
+  {
+    "startTime": "2024-01-10 11:30:00",
+    "generation_actual": 6771,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 12:00:00",
+    "generation_actual": 6774,
+    "generation_forecast": 6348.0
+  },
+  {
+    "startTime": "2024-01-10 12:30:00",
+    "generation_actual": 6969,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 13:00:00",
+    "generation_actual": 7172,
+    "generation_forecast": 6531.0
+  },
+  {
+    "startTime": "2024-01-10 13:30:00",
+    "generation_actual": 7338,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 14:00:00",
+    "generation_actual": 7684,
+    "generation_forecast": 6811.0
+  },
+  {
+    "startTime": "2024-01-10 14:30:00",
+    "generation_actual": 7899,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 15:00:00",
+    "generation_actual": 8027,
+    "generation_forecast": 7106.0
+  },
+  {
+    "startTime": "2024-01-10 15:30:00",
+    "generation_actual": 8042,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 16:00:00",
+    "generation_actual": 6983,
+    "generation_forecast": 7446.0
+  },
+  {
+    "startTime": "2024-01-10 16:30:00",
+    "generation_actual": 8777,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 17:00:00",
+    "generation_actual": 8970,
+    "generation_forecast": 7590.0
+  },
+  {
+    "startTime": "2024-01-10 17:30:00",
+    "generation_actual": 9026,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 18:00:00",
+    "generation_actual": 8944,
+    "generation_forecast": 7625.0
+  },
+  {
+    "startTime": "2024-01-10 18:30:00",
+    "generation_actual": 8926,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 19:00:00",
+    "generation_actual": 8831,
+    "generation_forecast": 7257.0
+  },
+  {
+    "startTime": "2024-01-10 19:30:00",
+    "generation_actual": 8987,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 20:00:00",
+    "generation_actual": 8785,
+    "generation_forecast": 6790.0
+  },
+  {
+    "startTime": "2024-01-10 20:30:00",
+    "generation_actual": 8520,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 21:00:00",
+    "generation_actual": 8234,
+    "generation_forecast": 6868.0
+  },
+  {
+    "startTime": "2024-01-10 21:30:00",
+    "generation_actual": 7743,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 22:00:00",
+    "generation_actual": 6978,
+    "generation_forecast": 6127.0
+  },
+  {
+    "startTime": "2024-01-10 22:30:00",
+    "generation_actual": 6800,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-10 23:00:00",
+    "generation_actual": 6690,
+    "generation_forecast": 5462.0
+  },
+  {
+    "startTime": "2024-01-10 23:30:00",
+    "generation_actual": 6737,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 00:00:00",
+    "generation_actual": 6538,
+    "generation_forecast": 5046.0
+  },
+  {
+    "startTime": "2024-01-11 00:30:00",
+    "generation_actual": 6372,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 01:00:00",
+    "generation_actual": 6143,
+    "generation_forecast": 4691.0
+  },
+  {
+    "startTime": "2024-01-11 01:30:00",
+    "generation_actual": 5994,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 02:00:00",
+    "generation_actual": 5824,
+    "generation_forecast": 4486.0
+  },
+  {
+    "startTime": "2024-01-11 02:30:00",
+    "generation_actual": 5568,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 03:00:00",
+    "generation_actual": 5469,
+    "generation_forecast": 4290.0
+  },
+  {
+    "startTime": "2024-01-11 03:30:00",
+    "generation_actual": 5521,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 04:00:00",
+    "generation_actual": 5671,
+    "generation_forecast": 4274.0
+  },
+  {
+    "startTime": "2024-01-11 04:30:00",
+    "generation_actual": 5683,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 05:00:00",
+    "generation_actual": 5605,
+    "generation_forecast": 4384.0
+  },
+  {
+    "startTime": "2024-01-11 05:30:00",
+    "generation_actual": 6155,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 06:00:00",
+    "generation_actual": 6036,
+    "generation_forecast": 4492.0
+  },
+  {
+    "startTime": "2024-01-11 06:30:00",
+    "generation_actual": 5722,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 07:00:00",
+    "generation_actual": 5536,
+    "generation_forecast": 4498.0
+  },
+  {
+    "startTime": "2024-01-11 07:30:00",
+    "generation_actual": 5279,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 08:00:00",
+    "generation_actual": 5389,
+    "generation_forecast": 4451.0
+  },
+  {
+    "startTime": "2024-01-11 08:30:00",
+    "generation_actual": 5459,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 09:00:00",
+    "generation_actual": 5450,
+    "generation_forecast": 4371.0
+  },
+  {
+    "startTime": "2024-01-11 09:30:00",
+    "generation_actual": 5583,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 10:00:00",
+    "generation_actual": 5824,
+    "generation_forecast": 4389.0
+  },
+  {
+    "startTime": "2024-01-11 10:30:00",
+    "generation_actual": 5858,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 11:00:00",
+    "generation_actual": 6061,
+    "generation_forecast": 4691.0
+  },
+  {
+    "startTime": "2024-01-11 11:30:00",
+    "generation_actual": 6251,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 12:00:00",
+    "generation_actual": 6457,
+    "generation_forecast": 5118.0
+  },
+  {
+    "startTime": "2024-01-11 12:30:00",
+    "generation_actual": 6829,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 13:00:00",
+    "generation_actual": 7088,
+    "generation_forecast": 5605.0
+  },
+  {
+    "startTime": "2024-01-11 13:30:00",
+    "generation_actual": 7224,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 14:00:00",
+    "generation_actual": 7308,
+    "generation_forecast": 5995.0
+  },
+  {
+    "startTime": "2024-01-11 14:30:00",
+    "generation_actual": 7559,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 15:00:00",
+    "generation_actual": 7604,
+    "generation_forecast": 6171.0
+  },
+  {
+    "startTime": "2024-01-11 15:30:00",
+    "generation_actual": 7787,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 16:00:00",
+    "generation_actual": 7549,
+    "generation_forecast": 6388.0
+  },
+  {
+    "startTime": "2024-01-11 16:30:00",
+    "generation_actual": 7418,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 17:00:00",
+    "generation_actual": 7151,
+    "generation_forecast": 6598.0
+  },
+  {
+    "startTime": "2024-01-11 17:30:00",
+    "generation_actual": 7185,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 18:00:00",
+    "generation_actual": 7094,
+    "generation_forecast": 6698.0
+  },
+  {
+    "startTime": "2024-01-11 18:30:00",
+    "generation_actual": 6934,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 19:00:00",
+    "generation_actual": 6770,
+    "generation_forecast": 6562.0
+  },
+  {
+    "startTime": "2024-01-11 19:30:00",
+    "generation_actual": 6551,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 20:00:00",
+    "generation_actual": 6414,
+    "generation_forecast": 6376.0
+  },
+  {
+    "startTime": "2024-01-11 20:30:00",
+    "generation_actual": 6354,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 21:00:00",
+    "generation_actual": 6324,
+    "generation_forecast": 7191.0
+  },
+  {
+    "startTime": "2024-01-11 21:30:00",
+    "generation_actual": 6218,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 22:00:00",
+    "generation_actual": 6167,
+    "generation_forecast": 6834.0
+  },
+  {
+    "startTime": "2024-01-11 22:30:00",
+    "generation_actual": 6057,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-11 23:00:00",
+    "generation_actual": 5853,
+    "generation_forecast": 6543.0
+  },
+  {
+    "startTime": "2024-01-11 23:30:00",
+    "generation_actual": 5871,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 00:00:00",
+    "generation_actual": 5886,
+    "generation_forecast": 6271.0
+  },
+  {
+    "startTime": "2024-01-12 00:30:00",
+    "generation_actual": 5867,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 01:00:00",
+    "generation_actual": 6018,
+    "generation_forecast": 6050.0
+  },
+  {
+    "startTime": "2024-01-12 01:30:00",
+    "generation_actual": 6355,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 02:00:00",
+    "generation_actual": 6108,
+    "generation_forecast": 5729.0
+  },
+  {
+    "startTime": "2024-01-12 02:30:00",
+    "generation_actual": 5827,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 03:00:00",
+    "generation_actual": 5292,
+    "generation_forecast": 5537.0
+  },
+  {
+    "startTime": "2024-01-12 03:30:00",
+    "generation_actual": 5220,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 04:00:00",
+    "generation_actual": 4824,
+    "generation_forecast": 5202.0
+  },
+  {
+    "startTime": "2024-01-12 04:30:00",
+    "generation_actual": 4783,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 05:00:00",
+    "generation_actual": 4848,
+    "generation_forecast": 4899.0
+  },
+  {
+    "startTime": "2024-01-12 05:30:00",
+    "generation_actual": 4800,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 06:00:00",
+    "generation_actual": 4510,
+    "generation_forecast": 4573.0
+  },
+  {
+    "startTime": "2024-01-12 06:30:00",
+    "generation_actual": 4443,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 07:00:00",
+    "generation_actual": 4312,
+    "generation_forecast": 4281.0
+  },
+  {
+    "startTime": "2024-01-12 07:30:00",
+    "generation_actual": 4039,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 08:00:00",
+    "generation_actual": 3879,
+    "generation_forecast": 3828.0
+  },
+  {
+    "startTime": "2024-01-12 08:30:00",
+    "generation_actual": 3675,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 09:00:00",
+    "generation_actual": 3499,
+    "generation_forecast": 3562.0
+  },
+  {
+    "startTime": "2024-01-12 09:30:00",
+    "generation_actual": 3307,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 10:00:00",
+    "generation_actual": 3335,
+    "generation_forecast": 3377.0
+  },
+  {
+    "startTime": "2024-01-12 10:30:00",
+    "generation_actual": 3202,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 11:00:00",
+    "generation_actual": 3201,
+    "generation_forecast": 3127.0
+  },
+  {
+    "startTime": "2024-01-12 11:30:00",
+    "generation_actual": 3278,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 12:00:00",
+    "generation_actual": 3318,
+    "generation_forecast": 3028.0
+  },
+  {
+    "startTime": "2024-01-12 12:30:00",
+    "generation_actual": 3320,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 13:00:00",
+    "generation_actual": 3321,
+    "generation_forecast": 3053.0
+  },
+  {
+    "startTime": "2024-01-12 13:30:00",
+    "generation_actual": 3509,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 14:00:00",
+    "generation_actual": 3690,
+    "generation_forecast": 3158.0
+  },
+  {
+    "startTime": "2024-01-12 14:30:00",
+    "generation_actual": 3862,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 15:00:00",
+    "generation_actual": 4220,
+    "generation_forecast": 3344.0
+  },
+  {
+    "startTime": "2024-01-12 15:30:00",
+    "generation_actual": 4438,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 16:00:00",
+    "generation_actual": 4527,
+    "generation_forecast": 3602.0
+  },
+  {
+    "startTime": "2024-01-12 16:30:00",
+    "generation_actual": 4514,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 17:00:00",
+    "generation_actual": 4405,
+    "generation_forecast": 3871.0
+  },
+  {
+    "startTime": "2024-01-12 17:30:00",
+    "generation_actual": 4641,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 18:00:00",
+    "generation_actual": 4639,
+    "generation_forecast": 4031.0
+  },
+  {
+    "startTime": "2024-01-12 18:30:00",
+    "generation_actual": 4654,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 19:00:00",
+    "generation_actual": 4837,
+    "generation_forecast": 4226.0
+  },
+  {
+    "startTime": "2024-01-12 19:30:00",
+    "generation_actual": 4946,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 20:00:00",
+    "generation_actual": 5083,
+    "generation_forecast": 4480.0
+  },
+  {
+    "startTime": "2024-01-12 20:30:00",
+    "generation_actual": 5256,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 21:00:00",
+    "generation_actual": 5486,
+    "generation_forecast": 4926.0
+  },
+  {
+    "startTime": "2024-01-12 21:30:00",
+    "generation_actual": 5685,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 22:00:00",
+    "generation_actual": 5842,
+    "generation_forecast": 5449.0
+  },
+  {
+    "startTime": "2024-01-12 22:30:00",
+    "generation_actual": 6017,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-12 23:00:00",
+    "generation_actual": 6359,
+    "generation_forecast": 6205.0
+  },
+  {
+    "startTime": "2024-01-12 23:30:00",
+    "generation_actual": 6250,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 00:00:00",
+    "generation_actual": 6319,
+    "generation_forecast": 7053.0
+  },
+  {
+    "startTime": "2024-01-13 00:30:00",
+    "generation_actual": 6644,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 01:00:00",
+    "generation_actual": 6801,
+    "generation_forecast": 7695.0
+  },
+  {
+    "startTime": "2024-01-13 01:30:00",
+    "generation_actual": 6993,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 02:00:00",
+    "generation_actual": 7297,
+    "generation_forecast": 7900.0
+  },
+  {
+    "startTime": "2024-01-13 02:30:00",
+    "generation_actual": 7132,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 03:00:00",
+    "generation_actual": 7695,
+    "generation_forecast": 8012.0
+  },
+  {
+    "startTime": "2024-01-13 03:30:00",
+    "generation_actual": 8002,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 04:00:00",
+    "generation_actual": 8191,
+    "generation_forecast": 7908.0
+  },
+  {
+    "startTime": "2024-01-13 04:30:00",
+    "generation_actual": 7774,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 05:00:00",
+    "generation_actual": 7678,
+    "generation_forecast": 7749.0
+  },
+  {
+    "startTime": "2024-01-13 05:30:00",
+    "generation_actual": 7498,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 06:00:00",
+    "generation_actual": 7446,
+    "generation_forecast": 7387.0
+  },
+  {
+    "startTime": "2024-01-13 06:30:00",
+    "generation_actual": 7622,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 07:00:00",
+    "generation_actual": 7765,
+    "generation_forecast": 7087.0
+  },
+  {
+    "startTime": "2024-01-13 07:30:00",
+    "generation_actual": 7841,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 08:00:00",
+    "generation_actual": 7975,
+    "generation_forecast": 7041.0
+  },
+  {
+    "startTime": "2024-01-13 08:30:00",
+    "generation_actual": 7749,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 09:00:00",
+    "generation_actual": 7662,
+    "generation_forecast": 6998.0
+  },
+  {
+    "startTime": "2024-01-13 09:30:00",
+    "generation_actual": 7493,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 10:00:00",
+    "generation_actual": 7384,
+    "generation_forecast": 6880.0
+  },
+  {
+    "startTime": "2024-01-13 10:30:00",
+    "generation_actual": 7190,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 11:00:00",
+    "generation_actual": 7093,
+    "generation_forecast": 6654.0
+  },
+  {
+    "startTime": "2024-01-13 11:30:00",
+    "generation_actual": 6901,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 12:00:00",
+    "generation_actual": 6834,
+    "generation_forecast": 6668.0
+  },
+  {
+    "startTime": "2024-01-13 12:30:00",
+    "generation_actual": 6663,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 13:00:00",
+    "generation_actual": 6733,
+    "generation_forecast": 6759.0
+  },
+  {
+    "startTime": "2024-01-13 13:30:00",
+    "generation_actual": 7017,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 14:00:00",
+    "generation_actual": 7450,
+    "generation_forecast": 6738.0
+  },
+  {
+    "startTime": "2024-01-13 14:30:00",
+    "generation_actual": 7282,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 15:00:00",
+    "generation_actual": 7003,
+    "generation_forecast": 6716.0
+  },
+  {
+    "startTime": "2024-01-13 15:30:00",
+    "generation_actual": 6950,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 16:00:00",
+    "generation_actual": 6768,
+    "generation_forecast": 6793.0
+  },
+  {
+    "startTime": "2024-01-13 16:30:00",
+    "generation_actual": 6834,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 17:00:00",
+    "generation_actual": 6416,
+    "generation_forecast": 6781.0
+  },
+  {
+    "startTime": "2024-01-13 17:30:00",
+    "generation_actual": 6418,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 18:00:00",
+    "generation_actual": 6446,
+    "generation_forecast": 6746.0
+  },
+  {
+    "startTime": "2024-01-13 18:30:00",
+    "generation_actual": 6499,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 19:00:00",
+    "generation_actual": 6755,
+    "generation_forecast": 6818.0
+  },
+  {
+    "startTime": "2024-01-13 19:30:00",
+    "generation_actual": 6763,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 20:00:00",
+    "generation_actual": 6706,
+    "generation_forecast": 6847.0
+  },
+  {
+    "startTime": "2024-01-13 20:30:00",
+    "generation_actual": 6901,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 21:00:00",
+    "generation_actual": 7009,
+    "generation_forecast": 6424.0
+  },
+  {
+    "startTime": "2024-01-13 21:30:00",
+    "generation_actual": 6897,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 22:00:00",
+    "generation_actual": 6926,
+    "generation_forecast": 6316.0
+  },
+  {
+    "startTime": "2024-01-13 22:30:00",
+    "generation_actual": 6531,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-13 23:00:00",
+    "generation_actual": 6264,
+    "generation_forecast": 6203.0
+  },
+  {
+    "startTime": "2024-01-13 23:30:00",
+    "generation_actual": 5986,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 00:00:00",
+    "generation_actual": 5873,
+    "generation_forecast": 6147.0
+  },
+  {
+    "startTime": "2024-01-14 00:30:00",
+    "generation_actual": 6160,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 01:00:00",
+    "generation_actual": 6058,
+    "generation_forecast": 6203.0
+  },
+  {
+    "startTime": "2024-01-14 01:30:00",
+    "generation_actual": 6093,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 02:00:00",
+    "generation_actual": 5737,
+    "generation_forecast": 6421.0
+  },
+  {
+    "startTime": "2024-01-14 02:30:00",
+    "generation_actual": 5526,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 03:00:00",
+    "generation_actual": 5596,
+    "generation_forecast": 6440.0
+  },
+  {
+    "startTime": "2024-01-14 03:30:00",
+    "generation_actual": 5538,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 04:00:00",
+    "generation_actual": 5477,
+    "generation_forecast": 6750.0
+  },
+  {
+    "startTime": "2024-01-14 04:30:00",
+    "generation_actual": 5367,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 05:00:00",
+    "generation_actual": 5288,
+    "generation_forecast": 7107.0
+  },
+  {
+    "startTime": "2024-01-14 05:30:00",
+    "generation_actual": 5487,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 06:00:00",
+    "generation_actual": 5862,
+    "generation_forecast": 7446.0
+  },
+  {
+    "startTime": "2024-01-14 06:30:00",
+    "generation_actual": 6248,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 07:00:00",
+    "generation_actual": 6461,
+    "generation_forecast": 7781.0
+  },
+  {
+    "startTime": "2024-01-14 07:30:00",
+    "generation_actual": 6759,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 08:00:00",
+    "generation_actual": 7130,
+    "generation_forecast": 8239.0
+  },
+  {
+    "startTime": "2024-01-14 08:30:00",
+    "generation_actual": 8172,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 09:00:00",
+    "generation_actual": 8614,
+    "generation_forecast": 9030.0
+  },
+  {
+    "startTime": "2024-01-14 09:30:00",
+    "generation_actual": 9045,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 10:00:00",
+    "generation_actual": 9487,
+    "generation_forecast": 9608.0
+  },
+  {
+    "startTime": "2024-01-14 10:30:00",
+    "generation_actual": 9699,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 11:00:00",
+    "generation_actual": 9952,
+    "generation_forecast": 10562.0
+  },
+  {
+    "startTime": "2024-01-14 11:30:00",
+    "generation_actual": 10278,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 12:00:00",
+    "generation_actual": 10051,
+    "generation_forecast": 11379.0
+  },
+  {
+    "startTime": "2024-01-14 12:30:00",
+    "generation_actual": 10150,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 13:00:00",
+    "generation_actual": 10400,
+    "generation_forecast": 12181.0
+  },
+  {
+    "startTime": "2024-01-14 13:30:00",
+    "generation_actual": 10769,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 14:00:00",
+    "generation_actual": 11368,
+    "generation_forecast": 12531.0
+  },
+  {
+    "startTime": "2024-01-14 14:30:00",
+    "generation_actual": 11902,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 15:00:00",
+    "generation_actual": 12175,
+    "generation_forecast": 12958.0
+  },
+  {
+    "startTime": "2024-01-14 15:30:00",
+    "generation_actual": 12372,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 16:00:00",
+    "generation_actual": 12559,
+    "generation_forecast": 13528.0
+  },
+  {
+    "startTime": "2024-01-14 16:30:00",
+    "generation_actual": 12247,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 17:00:00",
+    "generation_actual": 12347,
+    "generation_forecast": 14227.0
+  },
+  {
+    "startTime": "2024-01-14 17:30:00",
+    "generation_actual": 12505,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 18:00:00",
+    "generation_actual": 12424,
+    "generation_forecast": 14628.0
+  },
+  {
+    "startTime": "2024-01-14 18:30:00",
+    "generation_actual": 12316,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 19:00:00",
+    "generation_actual": 12364,
+    "generation_forecast": 15010.0
+  },
+  {
+    "startTime": "2024-01-14 19:30:00",
+    "generation_actual": 12398,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 20:00:00",
+    "generation_actual": 12757,
+    "generation_forecast": 15228.0
+  },
+  {
+    "startTime": "2024-01-14 20:30:00",
+    "generation_actual": 12721,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 21:00:00",
+    "generation_actual": 13213,
+    "generation_forecast": 14483.0
+  },
+  {
+    "startTime": "2024-01-14 21:30:00",
+    "generation_actual": 13730,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 22:00:00",
+    "generation_actual": 13731,
+    "generation_forecast": 14706.0
+  },
+  {
+    "startTime": "2024-01-14 22:30:00",
+    "generation_actual": 13557,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-14 23:00:00",
+    "generation_actual": 13352,
+    "generation_forecast": 14966.0
+  },
+  {
+    "startTime": "2024-01-14 23:30:00",
+    "generation_actual": 13539,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 00:00:00",
+    "generation_actual": 13826,
+    "generation_forecast": 15260.0
+  },
+  {
+    "startTime": "2024-01-15 00:30:00",
+    "generation_actual": 13991,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 01:00:00",
+    "generation_actual": 14343,
+    "generation_forecast": 15539.0
+  },
+  {
+    "startTime": "2024-01-15 01:30:00",
+    "generation_actual": 14482,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 02:00:00",
+    "generation_actual": 14431,
+    "generation_forecast": 15874.0
+  },
+  {
+    "startTime": "2024-01-15 02:30:00",
+    "generation_actual": 14426,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 03:00:00",
+    "generation_actual": 14534,
+    "generation_forecast": 16095.0
+  },
+  {
+    "startTime": "2024-01-15 03:30:00",
+    "generation_actual": 14706,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 04:00:00",
+    "generation_actual": 14840,
+    "generation_forecast": 16158.0
+  },
+  {
+    "startTime": "2024-01-15 04:30:00",
+    "generation_actual": 14933,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 05:00:00",
+    "generation_actual": 15001,
+    "generation_forecast": 16235.0
+  },
+  {
+    "startTime": "2024-01-15 05:30:00",
+    "generation_actual": 15070,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 06:00:00",
+    "generation_actual": 15022,
+    "generation_forecast": 16184.0
+  },
+  {
+    "startTime": "2024-01-15 06:30:00",
+    "generation_actual": 14830,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 07:00:00",
+    "generation_actual": 14963,
+    "generation_forecast": 16030.0
+  },
+  {
+    "startTime": "2024-01-15 07:30:00",
+    "generation_actual": 14855,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 08:00:00",
+    "generation_actual": 14492,
+    "generation_forecast": 15777.0
+  },
+  {
+    "startTime": "2024-01-15 08:30:00",
+    "generation_actual": 14264,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 09:00:00",
+    "generation_actual": 14233,
+    "generation_forecast": 15580.0
+  },
+  {
+    "startTime": "2024-01-15 09:30:00",
+    "generation_actual": 14149,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 10:00:00",
+    "generation_actual": 14315,
+    "generation_forecast": 15561.0
+  },
+  {
+    "startTime": "2024-01-15 10:30:00",
+    "generation_actual": 14149,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 11:00:00",
+    "generation_actual": 13835,
+    "generation_forecast": 15576.0
+  },
+  {
+    "startTime": "2024-01-15 11:30:00",
+    "generation_actual": 13709,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 12:00:00",
+    "generation_actual": 13529,
+    "generation_forecast": 15668.0
+  },
+  {
+    "startTime": "2024-01-15 12:30:00",
+    "generation_actual": 13614,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 13:00:00",
+    "generation_actual": 13859,
+    "generation_forecast": 15633.0
+  },
+  {
+    "startTime": "2024-01-15 13:30:00",
+    "generation_actual": 13948,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 14:00:00",
+    "generation_actual": 13810,
+    "generation_forecast": 15150.0
+  },
+  {
+    "startTime": "2024-01-15 14:30:00",
+    "generation_actual": 13770,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 15:00:00",
+    "generation_actual": 13547,
+    "generation_forecast": 14256.0
+  },
+  {
+    "startTime": "2024-01-15 15:30:00",
+    "generation_actual": 13411,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 16:00:00",
+    "generation_actual": 12939,
+    "generation_forecast": 13637.0
+  },
+  {
+    "startTime": "2024-01-15 16:30:00",
+    "generation_actual": 12747,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 17:00:00",
+    "generation_actual": 12466,
+    "generation_forecast": 13203.0
+  },
+  {
+    "startTime": "2024-01-15 17:30:00",
+    "generation_actual": 12140,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 18:00:00",
+    "generation_actual": 11775,
+    "generation_forecast": 12635.0
+  },
+  {
+    "startTime": "2024-01-15 18:30:00",
+    "generation_actual": 11448,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 19:00:00",
+    "generation_actual": 10834,
+    "generation_forecast": 11835.0
+  },
+  {
+    "startTime": "2024-01-15 19:30:00",
+    "generation_actual": 10449,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 20:00:00",
+    "generation_actual": 10046,
+    "generation_forecast": 11023.0
+  },
+  {
+    "startTime": "2024-01-15 20:30:00",
+    "generation_actual": 9952,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 21:00:00",
+    "generation_actual": 9569,
+    "generation_forecast": 9680.0
+  },
+  {
+    "startTime": "2024-01-15 21:30:00",
+    "generation_actual": 9174,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 22:00:00",
+    "generation_actual": 8995,
+    "generation_forecast": 8824.0
+  },
+  {
+    "startTime": "2024-01-15 22:30:00",
+    "generation_actual": 8472,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-15 23:00:00",
+    "generation_actual": 8022,
+    "generation_forecast": 8118.0
+  },
+  {
+    "startTime": "2024-01-15 23:30:00",
+    "generation_actual": 8095,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 00:00:00",
+    "generation_actual": 7892,
+    "generation_forecast": 7385.0
+  },
+  {
+    "startTime": "2024-01-16 00:30:00",
+    "generation_actual": 7692,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 01:00:00",
+    "generation_actual": 7270,
+    "generation_forecast": 6781.0
+  },
+  {
+    "startTime": "2024-01-16 01:30:00",
+    "generation_actual": 6954,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 02:00:00",
+    "generation_actual": 6228,
+    "generation_forecast": 6145.0
+  },
+  {
+    "startTime": "2024-01-16 02:30:00",
+    "generation_actual": 5806,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 03:00:00",
+    "generation_actual": 5814,
+    "generation_forecast": 5723.0
+  },
+  {
+    "startTime": "2024-01-16 03:30:00",
+    "generation_actual": 6035,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 04:00:00",
+    "generation_actual": 5985,
+    "generation_forecast": 5650.0
+  },
+  {
+    "startTime": "2024-01-16 04:30:00",
+    "generation_actual": 6136,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 05:00:00",
+    "generation_actual": 6396,
+    "generation_forecast": 6163.0
+  },
+  {
+    "startTime": "2024-01-16 05:30:00",
+    "generation_actual": 6833,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 06:00:00",
+    "generation_actual": 7111,
+    "generation_forecast": 5992.0
+  },
+  {
+    "startTime": "2024-01-16 06:30:00",
+    "generation_actual": 7196,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 07:00:00",
+    "generation_actual": 7343,
+    "generation_forecast": 5964.0
+  },
+  {
+    "startTime": "2024-01-16 07:30:00",
+    "generation_actual": 7266,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 08:00:00",
+    "generation_actual": 7387,
+    "generation_forecast": 6519.0
+  },
+  {
+    "startTime": "2024-01-16 08:30:00",
+    "generation_actual": 7590,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 09:00:00",
+    "generation_actual": 7756,
+    "generation_forecast": 6893.0
+  },
+  {
+    "startTime": "2024-01-16 09:30:00",
+    "generation_actual": 7674,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 10:00:00",
+    "generation_actual": 7412,
+    "generation_forecast": 7566.0
+  },
+  {
+    "startTime": "2024-01-16 10:30:00",
+    "generation_actual": 7345,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 11:00:00",
+    "generation_actual": 7463,
+    "generation_forecast": 8343.0
+  },
+  {
+    "startTime": "2024-01-16 11:30:00",
+    "generation_actual": 7449,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 12:00:00",
+    "generation_actual": 7607,
+    "generation_forecast": 8919.0
+  },
+  {
+    "startTime": "2024-01-16 12:30:00",
+    "generation_actual": 8122,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 13:00:00",
+    "generation_actual": 8206,
+    "generation_forecast": 8986.0
+  },
+  {
+    "startTime": "2024-01-16 13:30:00",
+    "generation_actual": 8607,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 14:00:00",
+    "generation_actual": 9047,
+    "generation_forecast": 9354.0
+  },
+  {
+    "startTime": "2024-01-16 14:30:00",
+    "generation_actual": 9180,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 15:00:00",
+    "generation_actual": 9603,
+    "generation_forecast": 9457.0
+  },
+  {
+    "startTime": "2024-01-16 15:30:00",
+    "generation_actual": 10811,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 16:00:00",
+    "generation_actual": 11451,
+    "generation_forecast": 9805.0
+  },
+  {
+    "startTime": "2024-01-16 16:30:00",
+    "generation_actual": 12264,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 17:00:00",
+    "generation_actual": 12975,
+    "generation_forecast": 10147.0
+  },
+  {
+    "startTime": "2024-01-16 17:30:00",
+    "generation_actual": 12989,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 18:00:00",
+    "generation_actual": 12865,
+    "generation_forecast": 10278.0
+  },
+  {
+    "startTime": "2024-01-16 18:30:00",
+    "generation_actual": 13113,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 19:00:00",
+    "generation_actual": 13083,
+    "generation_forecast": 10134.0
+  },
+  {
+    "startTime": "2024-01-16 19:30:00",
+    "generation_actual": 13106,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 20:00:00",
+    "generation_actual": 12888,
+    "generation_forecast": 10267.0
+  },
+  {
+    "startTime": "2024-01-16 20:30:00",
+    "generation_actual": 12532,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 21:00:00",
+    "generation_actual": 12042,
+    "generation_forecast": 11803.0
+  },
+  {
+    "startTime": "2024-01-16 21:30:00",
+    "generation_actual": 11991,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 22:00:00",
+    "generation_actual": 11610,
+    "generation_forecast": 11692.0
+  },
+  {
+    "startTime": "2024-01-16 22:30:00",
+    "generation_actual": 11742,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-16 23:00:00",
+    "generation_actual": 11622,
+    "generation_forecast": 11659.0
+  },
+  {
+    "startTime": "2024-01-16 23:30:00",
+    "generation_actual": 11388,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 00:00:00",
+    "generation_actual": 10883,
+    "generation_forecast": 11697.0
+  },
+  {
+    "startTime": "2024-01-17 00:30:00",
+    "generation_actual": 10311,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 01:00:00",
+    "generation_actual": 9675,
+    "generation_forecast": 11206.0
+  },
+  {
+    "startTime": "2024-01-17 01:30:00",
+    "generation_actual": 9320,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 02:00:00",
+    "generation_actual": 9013,
+    "generation_forecast": 10617.0
+  },
+  {
+    "startTime": "2024-01-17 02:30:00",
+    "generation_actual": 8423,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 03:00:00",
+    "generation_actual": 7573,
+    "generation_forecast": 9705.0
+  },
+  {
+    "startTime": "2024-01-17 03:30:00",
+    "generation_actual": 6710,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 04:00:00",
+    "generation_actual": 6030,
+    "generation_forecast": 8932.0
+  },
+  {
+    "startTime": "2024-01-17 04:30:00",
+    "generation_actual": 5342,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 05:00:00",
+    "generation_actual": 4695,
+    "generation_forecast": 7802.0
+  },
+  {
+    "startTime": "2024-01-17 05:30:00",
+    "generation_actual": 4464,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 06:00:00",
+    "generation_actual": 4682,
+    "generation_forecast": 6848.0
+  },
+  {
+    "startTime": "2024-01-17 06:30:00",
+    "generation_actual": 4880,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 07:00:00",
+    "generation_actual": 4822,
+    "generation_forecast": 6425.0
+  },
+  {
+    "startTime": "2024-01-17 07:30:00",
+    "generation_actual": 4252,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 08:00:00",
+    "generation_actual": 3988,
+    "generation_forecast": 5686.0
+  },
+  {
+    "startTime": "2024-01-17 08:30:00",
+    "generation_actual": 4340,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 09:00:00",
+    "generation_actual": 4434,
+    "generation_forecast": 5448.0
+  },
+  {
+    "startTime": "2024-01-17 09:30:00",
+    "generation_actual": 4345,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 10:00:00",
+    "generation_actual": 3902,
+    "generation_forecast": 4980.0
+  },
+  {
+    "startTime": "2024-01-17 10:30:00",
+    "generation_actual": 3670,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 11:00:00",
+    "generation_actual": 3455,
+    "generation_forecast": 4849.0
+  },
+  {
+    "startTime": "2024-01-17 11:30:00",
+    "generation_actual": 3179,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 12:00:00",
+    "generation_actual": 3238,
+    "generation_forecast": 4800.0
+  },
+  {
+    "startTime": "2024-01-17 12:30:00",
+    "generation_actual": 3501,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 13:00:00",
+    "generation_actual": 3785,
+    "generation_forecast": 5141.0
+  },
+  {
+    "startTime": "2024-01-17 13:30:00",
+    "generation_actual": 4254,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 14:00:00",
+    "generation_actual": 4774,
+    "generation_forecast": 5509.0
+  },
+  {
+    "startTime": "2024-01-17 14:30:00",
+    "generation_actual": 5335,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 15:00:00",
+    "generation_actual": 5291,
+    "generation_forecast": 5934.0
+  },
+  {
+    "startTime": "2024-01-17 15:30:00",
+    "generation_actual": 5163,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 16:00:00",
+    "generation_actual": 6190,
+    "generation_forecast": 6555.0
+  },
+  {
+    "startTime": "2024-01-17 16:30:00",
+    "generation_actual": 6709,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 17:00:00",
+    "generation_actual": 6631,
+    "generation_forecast": 6871.0
+  },
+  {
+    "startTime": "2024-01-17 17:30:00",
+    "generation_actual": 6928,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 18:00:00",
+    "generation_actual": 7004,
+    "generation_forecast": 7117.0
+  },
+  {
+    "startTime": "2024-01-17 18:30:00",
+    "generation_actual": 7410,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 19:00:00",
+    "generation_actual": 8038,
+    "generation_forecast": 6878.0
+  },
+  {
+    "startTime": "2024-01-17 19:30:00",
+    "generation_actual": 8125,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 20:00:00",
+    "generation_actual": 7850,
+    "generation_forecast": 7014.0
+  },
+  {
+    "startTime": "2024-01-17 20:30:00",
+    "generation_actual": 7925,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 21:00:00",
+    "generation_actual": 7426,
+    "generation_forecast": 7556.0
+  },
+  {
+    "startTime": "2024-01-17 21:30:00",
+    "generation_actual": 6999,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 22:00:00",
+    "generation_actual": 6788,
+    "generation_forecast": 7806.0
+  },
+  {
+    "startTime": "2024-01-17 22:30:00",
+    "generation_actual": 6796,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-17 23:00:00",
+    "generation_actual": 6841,
+    "generation_forecast": 7481.0
+  },
+  {
+    "startTime": "2024-01-17 23:30:00",
+    "generation_actual": 6763,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 00:00:00",
+    "generation_actual": 6431,
+    "generation_forecast": 7951.0
+  },
+  {
+    "startTime": "2024-01-18 00:30:00",
+    "generation_actual": 6939,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 01:00:00",
+    "generation_actual": 7447,
+    "generation_forecast": 7810.0
+  },
+  {
+    "startTime": "2024-01-18 01:30:00",
+    "generation_actual": 8491,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 02:00:00",
+    "generation_actual": 8596,
+    "generation_forecast": 8401.0
+  },
+  {
+    "startTime": "2024-01-18 02:30:00",
+    "generation_actual": 8096,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 03:00:00",
+    "generation_actual": 7493,
+    "generation_forecast": 8416.0
+  },
+  {
+    "startTime": "2024-01-18 03:30:00",
+    "generation_actual": 7360,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 04:00:00",
+    "generation_actual": 6878,
+    "generation_forecast": 8426.0
+  },
+  {
+    "startTime": "2024-01-18 04:30:00",
+    "generation_actual": 6044,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 05:00:00",
+    "generation_actual": 6362,
+    "generation_forecast": 8822.0
+  },
+  {
+    "startTime": "2024-01-18 05:30:00",
+    "generation_actual": 6862,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 06:00:00",
+    "generation_actual": 6990,
+    "generation_forecast": 8806.0
+  },
+  {
+    "startTime": "2024-01-18 06:30:00",
+    "generation_actual": 7283,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 07:00:00",
+    "generation_actual": 6833,
+    "generation_forecast": 8845.0
+  },
+  {
+    "startTime": "2024-01-18 07:30:00",
+    "generation_actual": 6751,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 08:00:00",
+    "generation_actual": 6392,
+    "generation_forecast": 8935.0
+  },
+  {
+    "startTime": "2024-01-18 08:30:00",
+    "generation_actual": 5897,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 09:00:00",
+    "generation_actual": 5659,
+    "generation_forecast": 9210.0
+  },
+  {
+    "startTime": "2024-01-18 09:30:00",
+    "generation_actual": 6231,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 10:00:00",
+    "generation_actual": 6206,
+    "generation_forecast": 9564.0
+  },
+  {
+    "startTime": "2024-01-18 10:30:00",
+    "generation_actual": 6333,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 11:00:00",
+    "generation_actual": 6688,
+    "generation_forecast": 9191.0
+  },
+  {
+    "startTime": "2024-01-18 11:30:00",
+    "generation_actual": 7308,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 12:00:00",
+    "generation_actual": 7551,
+    "generation_forecast": 9742.0
+  },
+  {
+    "startTime": "2024-01-18 12:30:00",
+    "generation_actual": 7180,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 13:00:00",
+    "generation_actual": 7082,
+    "generation_forecast": 10488.0
+  },
+  {
+    "startTime": "2024-01-18 13:30:00",
+    "generation_actual": 7754,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 14:00:00",
+    "generation_actual": 8365,
+    "generation_forecast": 11106.0
+  },
+  {
+    "startTime": "2024-01-18 14:30:00",
+    "generation_actual": 9019,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 15:00:00",
+    "generation_actual": 9515,
+    "generation_forecast": 11213.0
+  },
+  {
+    "startTime": "2024-01-18 15:30:00",
+    "generation_actual": 10164,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 16:00:00",
+    "generation_actual": 10356,
+    "generation_forecast": 11743.0
+  },
+  {
+    "startTime": "2024-01-18 16:30:00",
+    "generation_actual": 10765,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 17:00:00",
+    "generation_actual": 11322,
+    "generation_forecast": 12395.0
+  },
+  {
+    "startTime": "2024-01-18 17:30:00",
+    "generation_actual": 11727,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 18:00:00",
+    "generation_actual": 12362,
+    "generation_forecast": 12552.0
+  },
+  {
+    "startTime": "2024-01-18 18:30:00",
+    "generation_actual": 12443,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 19:00:00",
+    "generation_actual": 11678,
+    "generation_forecast": 12505.0
+  },
+  {
+    "startTime": "2024-01-18 19:30:00",
+    "generation_actual": 11307,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 20:00:00",
+    "generation_actual": 11339,
+    "generation_forecast": 12211.0
+  },
+  {
+    "startTime": "2024-01-18 20:30:00",
+    "generation_actual": 11344,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 21:00:00",
+    "generation_actual": 11629,
+    "generation_forecast": 10971.0
+  },
+  {
+    "startTime": "2024-01-18 21:30:00",
+    "generation_actual": 11648,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 22:00:00",
+    "generation_actual": 11561,
+    "generation_forecast": 10846.0
+  },
+  {
+    "startTime": "2024-01-18 22:30:00",
+    "generation_actual": 11843,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-18 23:00:00",
+    "generation_actual": 11716,
+    "generation_forecast": 11186.0
+  },
+  {
+    "startTime": "2024-01-18 23:30:00",
+    "generation_actual": 11747,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 00:00:00",
+    "generation_actual": 11417,
+    "generation_forecast": 11628.0
+  },
+  {
+    "startTime": "2024-01-19 00:30:00",
+    "generation_actual": 11180,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 01:00:00",
+    "generation_actual": 11590,
+    "generation_forecast": 11979.0
+  },
+  {
+    "startTime": "2024-01-19 01:30:00",
+    "generation_actual": 11553,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 02:00:00",
+    "generation_actual": 11509,
+    "generation_forecast": 12314.0
+  },
+  {
+    "startTime": "2024-01-19 02:30:00",
+    "generation_actual": 11728,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 03:00:00",
+    "generation_actual": 11687,
+    "generation_forecast": 12507.0
+  },
+  {
+    "startTime": "2024-01-19 03:30:00",
+    "generation_actual": 11751,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 04:00:00",
+    "generation_actual": 11337,
+    "generation_forecast": 12790.0
+  },
+  {
+    "startTime": "2024-01-19 04:30:00",
+    "generation_actual": 11244,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 05:00:00",
+    "generation_actual": 11423,
+    "generation_forecast": 13026.0
+  },
+  {
+    "startTime": "2024-01-19 05:30:00",
+    "generation_actual": 11661,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 06:00:00",
+    "generation_actual": 11717,
+    "generation_forecast": 13208.0
+  },
+  {
+    "startTime": "2024-01-19 06:30:00",
+    "generation_actual": 11405,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 07:00:00",
+    "generation_actual": 11668,
+    "generation_forecast": 13365.0
+  },
+  {
+    "startTime": "2024-01-19 07:30:00",
+    "generation_actual": 12110,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 08:00:00",
+    "generation_actual": 12606,
+    "generation_forecast": 13655.0
+  },
+  {
+    "startTime": "2024-01-19 08:30:00",
+    "generation_actual": 12537,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 09:00:00",
+    "generation_actual": 12592,
+    "generation_forecast": 13950.0
+  },
+  {
+    "startTime": "2024-01-19 09:30:00",
+    "generation_actual": 12724,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 10:00:00",
+    "generation_actual": 12700,
+    "generation_forecast": 14073.0
+  },
+  {
+    "startTime": "2024-01-19 10:30:00",
+    "generation_actual": 13097,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 11:00:00",
+    "generation_actual": 13342,
+    "generation_forecast": 14155.0
+  },
+  {
+    "startTime": "2024-01-19 11:30:00",
+    "generation_actual": 13641,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 12:00:00",
+    "generation_actual": 13807,
+    "generation_forecast": 14285.0
+  },
+  {
+    "startTime": "2024-01-19 12:30:00",
+    "generation_actual": 13958,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 13:00:00",
+    "generation_actual": 11807,
+    "generation_forecast": 14224.0
+  },
+  {
+    "startTime": "2024-01-19 13:30:00",
+    "generation_actual": 14349,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 14:00:00",
+    "generation_actual": 14160,
+    "generation_forecast": 14102.0
+  },
+  {
+    "startTime": "2024-01-19 14:30:00",
+    "generation_actual": 13847,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 15:00:00",
+    "generation_actual": 13844,
+    "generation_forecast": 13848.0
+  },
+  {
+    "startTime": "2024-01-19 15:30:00",
+    "generation_actual": 13901,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 16:00:00",
+    "generation_actual": 13906,
+    "generation_forecast": 13437.0
+  },
+  {
+    "startTime": "2024-01-19 16:30:00",
+    "generation_actual": 13697,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 17:00:00",
+    "generation_actual": 13613,
+    "generation_forecast": 13283.0
+  },
+  {
+    "startTime": "2024-01-19 17:30:00",
+    "generation_actual": 13892,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 18:00:00",
+    "generation_actual": 14025,
+    "generation_forecast": 13337.0
+  },
+  {
+    "startTime": "2024-01-19 18:30:00",
+    "generation_actual": 14184,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 19:00:00",
+    "generation_actual": 14208,
+    "generation_forecast": 13468.0
+  },
+  {
+    "startTime": "2024-01-19 19:30:00",
+    "generation_actual": 14358,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 20:00:00",
+    "generation_actual": 14634,
+    "generation_forecast": 13678.0
+  },
+  {
+    "startTime": "2024-01-19 20:30:00",
+    "generation_actual": 14687,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 21:00:00",
+    "generation_actual": 13992,
+    "generation_forecast": 15568.0
+  },
+  {
+    "startTime": "2024-01-19 21:30:00",
+    "generation_actual": 13871,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 22:00:00",
+    "generation_actual": 13956,
+    "generation_forecast": 15968.0
+  },
+  {
+    "startTime": "2024-01-19 22:30:00",
+    "generation_actual": 14014,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-19 23:00:00",
+    "generation_actual": 14025,
+    "generation_forecast": 16405.0
+  },
+  {
+    "startTime": "2024-01-19 23:30:00",
+    "generation_actual": 13845,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 00:00:00",
+    "generation_actual": 13736,
+    "generation_forecast": 16755.0
+  },
+  {
+    "startTime": "2024-01-20 00:30:00",
+    "generation_actual": 13852,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 01:00:00",
+    "generation_actual": 13650,
+    "generation_forecast": 17074.0
+  },
+  {
+    "startTime": "2024-01-20 01:30:00",
+    "generation_actual": 13788,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 02:00:00",
+    "generation_actual": 14124,
+    "generation_forecast": 17378.0
+  },
+  {
+    "startTime": "2024-01-20 02:30:00",
+    "generation_actual": 14310,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 03:00:00",
+    "generation_actual": 14459,
+    "generation_forecast": 17693.0
+  },
+  {
+    "startTime": "2024-01-20 03:30:00",
+    "generation_actual": 14755,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 04:00:00",
+    "generation_actual": 14938,
+    "generation_forecast": 18043.0
+  },
+  {
+    "startTime": "2024-01-20 04:30:00",
+    "generation_actual": 15096,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 05:00:00",
+    "generation_actual": 15267,
+    "generation_forecast": 18251.0
+  },
+  {
+    "startTime": "2024-01-20 05:30:00",
+    "generation_actual": 15062,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 06:00:00",
+    "generation_actual": 14918,
+    "generation_forecast": 18296.0
+  },
+  {
+    "startTime": "2024-01-20 06:30:00",
+    "generation_actual": 14860,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 07:00:00",
+    "generation_actual": 14954,
+    "generation_forecast": 18271.0
+  },
+  {
+    "startTime": "2024-01-20 07:30:00",
+    "generation_actual": 15094,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 08:00:00",
+    "generation_actual": 15281,
+    "generation_forecast": 18240.0
+  },
+  {
+    "startTime": "2024-01-20 08:30:00",
+    "generation_actual": 15331,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 09:00:00",
+    "generation_actual": 15269,
+    "generation_forecast": 18238.0
+  },
+  {
+    "startTime": "2024-01-20 09:30:00",
+    "generation_actual": 15181,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 10:00:00",
+    "generation_actual": 15432,
+    "generation_forecast": 18283.0
+  },
+  {
+    "startTime": "2024-01-20 10:30:00",
+    "generation_actual": 15707,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 11:00:00",
+    "generation_actual": 15970,
+    "generation_forecast": 18264.0
+  },
+  {
+    "startTime": "2024-01-20 11:30:00",
+    "generation_actual": 16245,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 12:00:00",
+    "generation_actual": 16185,
+    "generation_forecast": 18281.0
+  },
+  {
+    "startTime": "2024-01-20 12:30:00",
+    "generation_actual": 16283,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 13:00:00",
+    "generation_actual": 16129,
+    "generation_forecast": 18342.0
+  },
+  {
+    "startTime": "2024-01-20 13:30:00",
+    "generation_actual": 16137,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 14:00:00",
+    "generation_actual": 16279,
+    "generation_forecast": 18454.0
+  },
+  {
+    "startTime": "2024-01-20 14:30:00",
+    "generation_actual": 16253,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 15:00:00",
+    "generation_actual": 16261,
+    "generation_forecast": 18685.0
+  },
+  {
+    "startTime": "2024-01-20 15:30:00",
+    "generation_actual": 16034,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 16:00:00",
+    "generation_actual": 16240,
+    "generation_forecast": 18950.0
+  },
+  {
+    "startTime": "2024-01-20 16:30:00",
+    "generation_actual": 16244,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 17:00:00",
+    "generation_actual": 16246,
+    "generation_forecast": 19171.0
+  },
+  {
+    "startTime": "2024-01-20 17:30:00",
+    "generation_actual": 16185,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 18:00:00",
+    "generation_actual": 16073,
+    "generation_forecast": 19341.0
+  },
+  {
+    "startTime": "2024-01-20 18:30:00",
+    "generation_actual": 15971,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 19:00:00",
+    "generation_actual": 15985,
+    "generation_forecast": 19508.0
+  },
+  {
+    "startTime": "2024-01-20 19:30:00",
+    "generation_actual": 15950,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 20:00:00",
+    "generation_actual": 16260,
+    "generation_forecast": 19602.0
+  },
+  {
+    "startTime": "2024-01-20 20:30:00",
+    "generation_actual": 16662,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 21:00:00",
+    "generation_actual": 16434,
+    "generation_forecast": 19497.0
+  },
+  {
+    "startTime": "2024-01-20 21:30:00",
+    "generation_actual": 16143,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 22:00:00",
+    "generation_actual": 16118,
+    "generation_forecast": 19503.0
+  },
+  {
+    "startTime": "2024-01-20 22:30:00",
+    "generation_actual": 16102,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-20 23:00:00",
+    "generation_actual": 16072,
+    "generation_forecast": 19352.0
+  },
+  {
+    "startTime": "2024-01-20 23:30:00",
+    "generation_actual": 15959,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 00:00:00",
+    "generation_actual": 15884,
+    "generation_forecast": 18998.0
+  },
+  {
+    "startTime": "2024-01-21 00:30:00",
+    "generation_actual": 15535,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 01:00:00",
+    "generation_actual": 15248,
+    "generation_forecast": 18307.0
+  },
+  {
+    "startTime": "2024-01-21 01:30:00",
+    "generation_actual": 15132,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 02:00:00",
+    "generation_actual": 14809,
+    "generation_forecast": 17602.0
+  },
+  {
+    "startTime": "2024-01-21 02:30:00",
+    "generation_actual": 14637,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 03:00:00",
+    "generation_actual": 14474,
+    "generation_forecast": 16976.0
+  },
+  {
+    "startTime": "2024-01-21 03:30:00",
+    "generation_actual": 14028,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 04:00:00",
+    "generation_actual": 13775,
+    "generation_forecast": 16733.0
+  },
+  {
+    "startTime": "2024-01-21 04:30:00",
+    "generation_actual": 14036,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 05:00:00",
+    "generation_actual": 14540,
+    "generation_forecast": 16739.0
+  },
+  {
+    "startTime": "2024-01-21 05:30:00",
+    "generation_actual": 14247,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 06:00:00",
+    "generation_actual": 13505,
+    "generation_forecast": 16864.0
+  },
+  {
+    "startTime": "2024-01-21 06:30:00",
+    "generation_actual": 14168,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 07:00:00",
+    "generation_actual": 14359,
+    "generation_forecast": 16964.0
+  },
+  {
+    "startTime": "2024-01-21 07:30:00",
+    "generation_actual": 14343,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 08:00:00",
+    "generation_actual": 14072,
+    "generation_forecast": 17093.0
+  },
+  {
+    "startTime": "2024-01-21 08:30:00",
+    "generation_actual": 14152,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 09:00:00",
+    "generation_actual": 14474,
+    "generation_forecast": 17326.0
+  },
+  {
+    "startTime": "2024-01-21 09:30:00",
+    "generation_actual": 15158,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 10:00:00",
+    "generation_actual": 15221,
+    "generation_forecast": 17582.0
+  },
+  {
+    "startTime": "2024-01-21 10:30:00",
+    "generation_actual": 14975,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 11:00:00",
+    "generation_actual": 15127,
+    "generation_forecast": 17872.0
+  },
+  {
+    "startTime": "2024-01-21 11:30:00",
+    "generation_actual": 15761,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 12:00:00",
+    "generation_actual": 15746,
+    "generation_forecast": 18193.0
+  },
+  {
+    "startTime": "2024-01-21 12:30:00",
+    "generation_actual": 15338,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 13:00:00",
+    "generation_actual": 14874,
+    "generation_forecast": 18590.0
+  },
+  {
+    "startTime": "2024-01-21 13:30:00",
+    "generation_actual": 14969,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 14:00:00",
+    "generation_actual": 14866,
+    "generation_forecast": 18381.0
+  },
+  {
+    "startTime": "2024-01-21 14:30:00",
+    "generation_actual": 15018,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 15:00:00",
+    "generation_actual": 14802,
+    "generation_forecast": 17429.0
+  },
+  {
+    "startTime": "2024-01-21 15:30:00",
+    "generation_actual": 14627,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 16:00:00",
+    "generation_actual": 14731,
+    "generation_forecast": 17220.0
+  },
+  {
+    "startTime": "2024-01-21 16:30:00",
+    "generation_actual": 14708,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 17:00:00",
+    "generation_actual": 14630,
+    "generation_forecast": 17241.0
+  },
+  {
+    "startTime": "2024-01-21 17:30:00",
+    "generation_actual": 14190,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 18:00:00",
+    "generation_actual": 13740,
+    "generation_forecast": 17270.0
+  },
+  {
+    "startTime": "2024-01-21 18:30:00",
+    "generation_actual": 13028,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 19:00:00",
+    "generation_actual": 12901,
+    "generation_forecast": 16941.0
+  },
+  {
+    "startTime": "2024-01-21 19:30:00",
+    "generation_actual": 11789,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 20:00:00",
+    "generation_actual": 11299,
+    "generation_forecast": 15905.0
+  },
+  {
+    "startTime": "2024-01-21 20:30:00",
+    "generation_actual": 10202,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 21:00:00",
+    "generation_actual": 9112,
+    "generation_forecast": 13414.0
+  },
+  {
+    "startTime": "2024-01-21 21:30:00",
+    "generation_actual": 8197,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 22:00:00",
+    "generation_actual": 8108,
+    "generation_forecast": 14417.0
+  },
+  {
+    "startTime": "2024-01-21 22:30:00",
+    "generation_actual": 8182,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-21 23:00:00",
+    "generation_actual": 8493,
+    "generation_forecast": 12374.0
+  },
+  {
+    "startTime": "2024-01-21 23:30:00",
+    "generation_actual": 8503,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 00:00:00",
+    "generation_actual": 8662,
+    "generation_forecast": 12256.0
+  },
+  {
+    "startTime": "2024-01-22 00:30:00",
+    "generation_actual": 8485,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 01:00:00",
+    "generation_actual": 8121,
+    "generation_forecast": 12891.0
+  },
+  {
+    "startTime": "2024-01-22 01:30:00",
+    "generation_actual": 8344,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 02:00:00",
+    "generation_actual": 8638,
+    "generation_forecast": 17324.0
+  },
+  {
+    "startTime": "2024-01-22 02:30:00",
+    "generation_actual": 9403,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 03:00:00",
+    "generation_actual": 10235,
+    "generation_forecast": 18510.0
+  },
+  {
+    "startTime": "2024-01-22 03:30:00",
+    "generation_actual": 10824,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 04:00:00",
+    "generation_actual": 11196,
+    "generation_forecast": 19002.0
+  },
+  {
+    "startTime": "2024-01-22 04:30:00",
+    "generation_actual": 11465,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 05:00:00",
+    "generation_actual": 11531,
+    "generation_forecast": 19646.0
+  },
+  {
+    "startTime": "2024-01-22 05:30:00",
+    "generation_actual": 11847,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 06:00:00",
+    "generation_actual": 12139,
+    "generation_forecast": 19717.0
+  },
+  {
+    "startTime": "2024-01-22 06:30:00",
+    "generation_actual": 12742,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 07:00:00",
+    "generation_actual": 13423,
+    "generation_forecast": 19779.0
+  },
+  {
+    "startTime": "2024-01-22 07:30:00",
+    "generation_actual": 14265,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 08:00:00",
+    "generation_actual": 14698,
+    "generation_forecast": 19716.0
+  },
+  {
+    "startTime": "2024-01-22 08:30:00",
+    "generation_actual": 14883,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 09:00:00",
+    "generation_actual": 14969,
+    "generation_forecast": 19665.0
+  },
+  {
+    "startTime": "2024-01-22 09:30:00",
+    "generation_actual": 15083,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 10:00:00",
+    "generation_actual": 15231,
+    "generation_forecast": 19669.0
+  },
+  {
+    "startTime": "2024-01-22 10:30:00",
+    "generation_actual": 15390,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 11:00:00",
+    "generation_actual": 15408,
+    "generation_forecast": 19689.0
+  },
+  {
+    "startTime": "2024-01-22 11:30:00",
+    "generation_actual": 15533,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 12:00:00",
+    "generation_actual": 15341,
+    "generation_forecast": 19701.0
+  },
+  {
+    "startTime": "2024-01-22 12:30:00",
+    "generation_actual": 15524,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 13:00:00",
+    "generation_actual": 15638,
+    "generation_forecast": 19674.0
+  },
+  {
+    "startTime": "2024-01-22 13:30:00",
+    "generation_actual": 15717,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 14:00:00",
+    "generation_actual": 16018,
+    "generation_forecast": 19631.0
+  },
+  {
+    "startTime": "2024-01-22 14:30:00",
+    "generation_actual": 15810,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 15:00:00",
+    "generation_actual": 15682,
+    "generation_forecast": 19606.0
+  },
+  {
+    "startTime": "2024-01-22 15:30:00",
+    "generation_actual": 15649,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 16:00:00",
+    "generation_actual": 15877,
+    "generation_forecast": 19571.0
+  },
+  {
+    "startTime": "2024-01-22 16:30:00",
+    "generation_actual": 13225,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 17:00:00",
+    "generation_actual": 15743,
+    "generation_forecast": 19564.0
+  },
+  {
+    "startTime": "2024-01-22 17:30:00",
+    "generation_actual": 15885,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 18:00:00",
+    "generation_actual": 15855,
+    "generation_forecast": 19536.0
+  },
+  {
+    "startTime": "2024-01-22 18:30:00",
+    "generation_actual": 15910,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 19:00:00",
+    "generation_actual": 15798,
+    "generation_forecast": 19515.0
+  },
+  {
+    "startTime": "2024-01-22 19:30:00",
+    "generation_actual": 15727,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 20:00:00",
+    "generation_actual": 15742,
+    "generation_forecast": 19533.0
+  },
+  {
+    "startTime": "2024-01-22 20:30:00",
+    "generation_actual": 15679,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 21:00:00",
+    "generation_actual": 15692,
+    "generation_forecast": 19634.0
+  },
+  {
+    "startTime": "2024-01-22 21:30:00",
+    "generation_actual": 15594,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 22:00:00",
+    "generation_actual": 15461,
+    "generation_forecast": 19470.0
+  },
+  {
+    "startTime": "2024-01-22 22:30:00",
+    "generation_actual": 15305,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-22 23:00:00",
+    "generation_actual": 15049,
+    "generation_forecast": 19208.0
+  },
+  {
+    "startTime": "2024-01-22 23:30:00",
+    "generation_actual": 14926,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 00:00:00",
+    "generation_actual": 14934,
+    "generation_forecast": 18788.0
+  },
+  {
+    "startTime": "2024-01-23 00:30:00",
+    "generation_actual": 14793,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 01:00:00",
+    "generation_actual": 14541,
+    "generation_forecast": 18301.0
+  },
+  {
+    "startTime": "2024-01-23 01:30:00",
+    "generation_actual": 14072,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 02:00:00",
+    "generation_actual": 13765,
+    "generation_forecast": 17740.0
+  },
+  {
+    "startTime": "2024-01-23 02:30:00",
+    "generation_actual": 13509,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 03:00:00",
+    "generation_actual": 12974,
+    "generation_forecast": 16901.0
+  },
+  {
+    "startTime": "2024-01-23 03:30:00",
+    "generation_actual": 12866,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 04:00:00",
+    "generation_actual": 12541,
+    "generation_forecast": 15775.0
+  },
+  {
+    "startTime": "2024-01-23 04:30:00",
+    "generation_actual": 12002,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 05:00:00",
+    "generation_actual": 12089,
+    "generation_forecast": 14388.0
+  },
+  {
+    "startTime": "2024-01-23 05:30:00",
+    "generation_actual": 12164,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 06:00:00",
+    "generation_actual": 12206,
+    "generation_forecast": 13438.0
+  },
+  {
+    "startTime": "2024-01-23 06:30:00",
+    "generation_actual": 12362,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 07:00:00",
+    "generation_actual": 13002,
+    "generation_forecast": 13188.0
+  },
+  {
+    "startTime": "2024-01-23 07:30:00",
+    "generation_actual": 13604,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 08:00:00",
+    "generation_actual": 14101,
+    "generation_forecast": 13889.0
+  },
+  {
+    "startTime": "2024-01-23 08:30:00",
+    "generation_actual": 14453,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 09:00:00",
+    "generation_actual": 14526,
+    "generation_forecast": 14855.0
+  },
+  {
+    "startTime": "2024-01-23 09:30:00",
+    "generation_actual": 14747,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 10:00:00",
+    "generation_actual": 14552,
+    "generation_forecast": 16612.0
+  },
+  {
+    "startTime": "2024-01-23 10:30:00",
+    "generation_actual": 2469,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 11:00:00",
+    "generation_actual": 0,
+    "generation_forecast": 17983.0
+  },
+  {
+    "startTime": "2024-01-23 11:30:00",
+    "generation_actual": 0,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 12:00:00",
+    "generation_actual": 12439,
+    "generation_forecast": 18686.0
+  },
+  {
+    "startTime": "2024-01-23 12:30:00",
+    "generation_actual": 15262,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 13:00:00",
+    "generation_actual": 15288,
+    "generation_forecast": 19110.0
+  },
+  {
+    "startTime": "2024-01-23 13:30:00",
+    "generation_actual": 15407,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 14:00:00",
+    "generation_actual": 15721,
+    "generation_forecast": 19234.0
+  },
+  {
+    "startTime": "2024-01-23 14:30:00",
+    "generation_actual": 15654,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 15:00:00",
+    "generation_actual": 15455,
+    "generation_forecast": 19460.0
+  },
+  {
+    "startTime": "2024-01-23 15:30:00",
+    "generation_actual": 15341,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 16:00:00",
+    "generation_actual": 15280,
+    "generation_forecast": 19426.0
+  },
+  {
+    "startTime": "2024-01-23 16:30:00",
+    "generation_actual": 15301,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 17:00:00",
+    "generation_actual": 15232,
+    "generation_forecast": 19561.0
+  },
+  {
+    "startTime": "2024-01-23 17:30:00",
+    "generation_actual": 15389,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 18:00:00",
+    "generation_actual": 15500,
+    "generation_forecast": 19432.0
+  },
+  {
+    "startTime": "2024-01-23 18:30:00",
+    "generation_actual": 15256,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 19:00:00",
+    "generation_actual": 15087,
+    "generation_forecast": 19368.0
+  },
+  {
+    "startTime": "2024-01-23 19:30:00",
+    "generation_actual": 15070,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 20:00:00",
+    "generation_actual": 15140,
+    "generation_forecast": 19071.0
+  },
+  {
+    "startTime": "2024-01-23 20:30:00",
+    "generation_actual": 15099,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 21:00:00",
+    "generation_actual": 14506,
+    "generation_forecast": 18831.0
+  },
+  {
+    "startTime": "2024-01-23 21:30:00",
+    "generation_actual": 14128,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 22:00:00",
+    "generation_actual": 13779,
+    "generation_forecast": 18879.0
+  },
+  {
+    "startTime": "2024-01-23 22:30:00",
+    "generation_actual": 13565,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-23 23:00:00",
+    "generation_actual": 13784,
+    "generation_forecast": 18407.0
+  },
+  {
+    "startTime": "2024-01-23 23:30:00",
+    "generation_actual": 14027,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 00:00:00",
+    "generation_actual": 13888,
+    "generation_forecast": 18390.0
+  },
+  {
+    "startTime": "2024-01-24 00:30:00",
+    "generation_actual": 13934,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 01:00:00",
+    "generation_actual": 13913,
+    "generation_forecast": 18237.0
+  },
+  {
+    "startTime": "2024-01-24 01:30:00",
+    "generation_actual": 13825,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 02:00:00",
+    "generation_actual": 13586,
+    "generation_forecast": 18370.0
+  },
+  {
+    "startTime": "2024-01-24 02:30:00",
+    "generation_actual": 13585,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 03:00:00",
+    "generation_actual": 13351,
+    "generation_forecast": 18258.0
+  },
+  {
+    "startTime": "2024-01-24 03:30:00",
+    "generation_actual": 13336,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 04:00:00",
+    "generation_actual": 13392,
+    "generation_forecast": 18399.0
+  },
+  {
+    "startTime": "2024-01-24 04:30:00",
+    "generation_actual": 13158,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 05:00:00",
+    "generation_actual": 13320,
+    "generation_forecast": 18465.0
+  },
+  {
+    "startTime": "2024-01-24 05:30:00",
+    "generation_actual": 13459,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 06:00:00",
+    "generation_actual": 13479,
+    "generation_forecast": 18759.0
+  },
+  {
+    "startTime": "2024-01-24 06:30:00",
+    "generation_actual": 13875,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 07:00:00",
+    "generation_actual": 14158,
+    "generation_forecast": 19109.0
+  },
+  {
+    "startTime": "2024-01-24 07:30:00",
+    "generation_actual": 14397,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 08:00:00",
+    "generation_actual": 14406,
+    "generation_forecast": 19473.0
+  },
+  {
+    "startTime": "2024-01-24 08:30:00",
+    "generation_actual": 14765,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 09:00:00",
+    "generation_actual": 14811,
+    "generation_forecast": 19325.0
+  },
+  {
+    "startTime": "2024-01-24 09:30:00",
+    "generation_actual": 14965,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 10:00:00",
+    "generation_actual": 14879,
+    "generation_forecast": 19163.0
+  },
+  {
+    "startTime": "2024-01-24 10:30:00",
+    "generation_actual": 14837,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 11:00:00",
+    "generation_actual": 14882,
+    "generation_forecast": 19076.0
+  },
+  {
+    "startTime": "2024-01-24 11:30:00",
+    "generation_actual": 14782,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 12:00:00",
+    "generation_actual": 14859,
+    "generation_forecast": 18757.0
+  },
+  {
+    "startTime": "2024-01-24 12:30:00",
+    "generation_actual": 14817,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 13:00:00",
+    "generation_actual": 14727,
+    "generation_forecast": 18270.0
+  },
+  {
+    "startTime": "2024-01-24 13:30:00",
+    "generation_actual": 14459,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 14:00:00",
+    "generation_actual": 14200,
+    "generation_forecast": 17477.0
+  },
+  {
+    "startTime": "2024-01-24 14:30:00",
+    "generation_actual": 14398,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 15:00:00",
+    "generation_actual": 14210,
+    "generation_forecast": 16663.0
+  },
+  {
+    "startTime": "2024-01-24 15:30:00",
+    "generation_actual": 14282,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 16:00:00",
+    "generation_actual": 13797,
+    "generation_forecast": 15911.0
+  },
+  {
+    "startTime": "2024-01-24 16:30:00",
+    "generation_actual": 13163,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 17:00:00",
+    "generation_actual": 12907,
+    "generation_forecast": 15117.0
+  },
+  {
+    "startTime": "2024-01-24 17:30:00",
+    "generation_actual": 13105,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 18:00:00",
+    "generation_actual": 12889,
+    "generation_forecast": 14343.0
+  },
+  {
+    "startTime": "2024-01-24 18:30:00",
+    "generation_actual": 12513,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 19:00:00",
+    "generation_actual": 11844,
+    "generation_forecast": 13343.0
+  },
+  {
+    "startTime": "2024-01-24 19:30:00",
+    "generation_actual": 11620,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 20:00:00",
+    "generation_actual": 11630,
+    "generation_forecast": 12361.0
+  },
+  {
+    "startTime": "2024-01-24 20:30:00",
+    "generation_actual": 10866,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 21:00:00",
+    "generation_actual": 10361,
+    "generation_forecast": 10753.0
+  },
+  {
+    "startTime": "2024-01-24 21:30:00",
+    "generation_actual": 10012,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 22:00:00",
+    "generation_actual": 9429,
+    "generation_forecast": 9703.0
+  },
+  {
+    "startTime": "2024-01-24 22:30:00",
+    "generation_actual": 8572,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-24 23:00:00",
+    "generation_actual": 8380,
+    "generation_forecast": 8629.0
+  },
+  {
+    "startTime": "2024-01-24 23:30:00",
+    "generation_actual": 7759,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 00:00:00",
+    "generation_actual": 7512,
+    "generation_forecast": 7735.0
+  },
+  {
+    "startTime": "2024-01-25 00:30:00",
+    "generation_actual": 7202,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 01:00:00",
+    "generation_actual": 6910,
+    "generation_forecast": 6913.0
+  },
+  {
+    "startTime": "2024-01-25 01:30:00",
+    "generation_actual": 6442,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 02:00:00",
+    "generation_actual": 6321,
+    "generation_forecast": 6204.0
+  },
+  {
+    "startTime": "2024-01-25 02:30:00",
+    "generation_actual": 6066,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 03:00:00",
+    "generation_actual": 6055,
+    "generation_forecast": 5749.0
+  },
+  {
+    "startTime": "2024-01-25 03:30:00",
+    "generation_actual": 6376,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 04:00:00",
+    "generation_actual": 6007,
+    "generation_forecast": 5567.0
+  },
+  {
+    "startTime": "2024-01-25 04:30:00",
+    "generation_actual": 5719,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 05:00:00",
+    "generation_actual": 6135,
+    "generation_forecast": 5679.0
+  },
+  {
+    "startTime": "2024-01-25 05:30:00",
+    "generation_actual": 6266,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 06:00:00",
+    "generation_actual": 6573,
+    "generation_forecast": 6266.0
+  },
+  {
+    "startTime": "2024-01-25 06:30:00",
+    "generation_actual": 6894,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 07:00:00",
+    "generation_actual": 7496,
+    "generation_forecast": 7280.0
+  },
+  {
+    "startTime": "2024-01-25 07:30:00",
+    "generation_actual": 8145,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 08:00:00",
+    "generation_actual": 8529,
+    "generation_forecast": 8652.0
+  },
+  {
+    "startTime": "2024-01-25 08:30:00",
+    "generation_actual": 9601,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 09:00:00",
+    "generation_actual": 10362,
+    "generation_forecast": 10366.0
+  },
+  {
+    "startTime": "2024-01-25 09:30:00",
+    "generation_actual": 10975,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 10:00:00",
+    "generation_actual": 11463,
+    "generation_forecast": 12340.0
+  },
+  {
+    "startTime": "2024-01-25 10:30:00",
+    "generation_actual": 12224,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 11:00:00",
+    "generation_actual": 12490,
+    "generation_forecast": 13753.0
+  },
+  {
+    "startTime": "2024-01-25 11:30:00",
+    "generation_actual": 12648,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 12:00:00",
+    "generation_actual": 12824,
+    "generation_forecast": 14759.0
+  },
+  {
+    "startTime": "2024-01-25 12:30:00",
+    "generation_actual": 13216,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 13:00:00",
+    "generation_actual": 13605,
+    "generation_forecast": 15262.0
+  },
+  {
+    "startTime": "2024-01-25 13:30:00",
+    "generation_actual": 13712,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 14:00:00",
+    "generation_actual": 13819,
+    "generation_forecast": 15492.0
+  },
+  {
+    "startTime": "2024-01-25 14:30:00",
+    "generation_actual": 13627,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 15:00:00",
+    "generation_actual": 13601,
+    "generation_forecast": 15633.0
+  },
+  {
+    "startTime": "2024-01-25 15:30:00",
+    "generation_actual": 13968,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 16:00:00",
+    "generation_actual": 14202,
+    "generation_forecast": 15942.0
+  },
+  {
+    "startTime": "2024-01-25 16:30:00",
+    "generation_actual": 14049,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 17:00:00",
+    "generation_actual": 14242,
+    "generation_forecast": 16295.0
+  },
+  {
+    "startTime": "2024-01-25 17:30:00",
+    "generation_actual": 14444,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 18:00:00",
+    "generation_actual": 14704,
+    "generation_forecast": 16621.0
+  },
+  {
+    "startTime": "2024-01-25 18:30:00",
+    "generation_actual": 14618,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 19:00:00",
+    "generation_actual": 14109,
+    "generation_forecast": 17101.0
+  },
+  {
+    "startTime": "2024-01-25 19:30:00",
+    "generation_actual": 14245,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 20:00:00",
+    "generation_actual": 14402,
+    "generation_forecast": 17509.0
+  },
+  {
+    "startTime": "2024-01-25 20:30:00",
+    "generation_actual": 14577,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 21:00:00",
+    "generation_actual": 14506,
+    "generation_forecast": 18099.0
+  },
+  {
+    "startTime": "2024-01-25 21:30:00",
+    "generation_actual": 14513,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 22:00:00",
+    "generation_actual": 14593,
+    "generation_forecast": 18570.0
+  },
+  {
+    "startTime": "2024-01-25 22:30:00",
+    "generation_actual": 14650,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-25 23:00:00",
+    "generation_actual": 14478,
+    "generation_forecast": 19004.0
+  },
+  {
+    "startTime": "2024-01-25 23:30:00",
+    "generation_actual": 14456,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 00:00:00",
+    "generation_actual": 14317,
+    "generation_forecast": 19296.0
+  },
+  {
+    "startTime": "2024-01-26 00:30:00",
+    "generation_actual": 14259,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 01:00:00",
+    "generation_actual": 14422,
+    "generation_forecast": 19171.0
+  },
+  {
+    "startTime": "2024-01-26 01:30:00",
+    "generation_actual": 14285,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 02:00:00",
+    "generation_actual": 14316,
+    "generation_forecast": 18945.0
+  },
+  {
+    "startTime": "2024-01-26 02:30:00",
+    "generation_actual": 14488,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 03:00:00",
+    "generation_actual": 14523,
+    "generation_forecast": 18949.0
+  },
+  {
+    "startTime": "2024-01-26 03:30:00",
+    "generation_actual": 14509,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 04:00:00",
+    "generation_actual": 14632,
+    "generation_forecast": 19128.0
+  },
+  {
+    "startTime": "2024-01-26 04:30:00",
+    "generation_actual": 14723,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 05:00:00",
+    "generation_actual": 14692,
+    "generation_forecast": 19095.0
+  },
+  {
+    "startTime": "2024-01-26 05:30:00",
+    "generation_actual": 14335,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 06:00:00",
+    "generation_actual": 14547,
+    "generation_forecast": 18984.0
+  },
+  {
+    "startTime": "2024-01-26 06:30:00",
+    "generation_actual": 14760,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 07:00:00",
+    "generation_actual": 14603,
+    "generation_forecast": 18864.0
+  },
+  {
+    "startTime": "2024-01-26 07:30:00",
+    "generation_actual": 14931,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 08:00:00",
+    "generation_actual": 14722,
+    "generation_forecast": 18430.0
+  },
+  {
+    "startTime": "2024-01-26 08:30:00",
+    "generation_actual": 14753,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 09:00:00",
+    "generation_actual": 14620,
+    "generation_forecast": 18038.0
+  },
+  {
+    "startTime": "2024-01-26 09:30:00",
+    "generation_actual": 14695,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 10:00:00",
+    "generation_actual": 14755,
+    "generation_forecast": 17842.0
+  },
+  {
+    "startTime": "2024-01-26 10:30:00",
+    "generation_actual": 14745,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 11:00:00",
+    "generation_actual": 15050,
+    "generation_forecast": 17761.0
+  },
+  {
+    "startTime": "2024-01-26 11:30:00",
+    "generation_actual": 15069,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 12:00:00",
+    "generation_actual": 15103,
+    "generation_forecast": 17677.0
+  },
+  {
+    "startTime": "2024-01-26 12:30:00",
+    "generation_actual": 14902,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 13:00:00",
+    "generation_actual": 15185,
+    "generation_forecast": 17308.0
+  },
+  {
+    "startTime": "2024-01-26 13:30:00",
+    "generation_actual": 15185,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 14:00:00",
+    "generation_actual": 14854,
+    "generation_forecast": 16817.0
+  },
+  {
+    "startTime": "2024-01-26 14:30:00",
+    "generation_actual": 14316,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 15:00:00",
+    "generation_actual": 13927,
+    "generation_forecast": 16262.0
+  },
+  {
+    "startTime": "2024-01-26 15:30:00",
+    "generation_actual": 13631,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 16:00:00",
+    "generation_actual": 13208,
+    "generation_forecast": 15942.0
+  },
+  {
+    "startTime": "2024-01-26 16:30:00",
+    "generation_actual": 12846,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 17:00:00",
+    "generation_actual": 13030,
+    "generation_forecast": 15569.0
+  },
+  {
+    "startTime": "2024-01-26 17:30:00",
+    "generation_actual": 12726,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 18:00:00",
+    "generation_actual": 12745,
+    "generation_forecast": 15529.0
+  },
+  {
+    "startTime": "2024-01-26 18:30:00",
+    "generation_actual": 12745,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 19:00:00",
+    "generation_actual": 12733,
+    "generation_forecast": 15715.0
+  },
+  {
+    "startTime": "2024-01-26 19:30:00",
+    "generation_actual": 12520,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 20:00:00",
+    "generation_actual": 12562,
+    "generation_forecast": 15982.0
+  },
+  {
+    "startTime": "2024-01-26 20:30:00",
+    "generation_actual": 12482,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 21:00:00",
+    "generation_actual": 12454,
+    "generation_forecast": 15842.0
+  },
+  {
+    "startTime": "2024-01-26 21:30:00",
+    "generation_actual": 12380,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 22:00:00",
+    "generation_actual": 12336,
+    "generation_forecast": 15922.0
+  },
+  {
+    "startTime": "2024-01-26 22:30:00",
+    "generation_actual": 12080,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-26 23:00:00",
+    "generation_actual": 11989,
+    "generation_forecast": 15723.0
+  },
+  {
+    "startTime": "2024-01-26 23:30:00",
+    "generation_actual": 12011,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 00:00:00",
+    "generation_actual": 11898,
+    "generation_forecast": 15606.0
+  },
+  {
+    "startTime": "2024-01-27 00:30:00",
+    "generation_actual": 11691,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 01:00:00",
+    "generation_actual": 11576,
+    "generation_forecast": 15533.0
+  },
+  {
+    "startTime": "2024-01-27 01:30:00",
+    "generation_actual": 11267,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 02:00:00",
+    "generation_actual": 11146,
+    "generation_forecast": 15463.0
+  },
+  {
+    "startTime": "2024-01-27 02:30:00",
+    "generation_actual": 10923,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 03:00:00",
+    "generation_actual": 10526,
+    "generation_forecast": 15407.0
+  },
+  {
+    "startTime": "2024-01-27 03:30:00",
+    "generation_actual": 10415,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 04:00:00",
+    "generation_actual": 10210,
+    "generation_forecast": 15354.0
+  },
+  {
+    "startTime": "2024-01-27 04:30:00",
+    "generation_actual": 10206,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 05:00:00",
+    "generation_actual": 9962,
+    "generation_forecast": 15150.0
+  },
+  {
+    "startTime": "2024-01-27 05:30:00",
+    "generation_actual": 9844,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 06:00:00",
+    "generation_actual": 9601,
+    "generation_forecast": 15072.0
+  },
+  {
+    "startTime": "2024-01-27 06:30:00",
+    "generation_actual": 9574,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 07:00:00",
+    "generation_actual": 9683,
+    "generation_forecast": 14982.0
+  },
+  {
+    "startTime": "2024-01-27 07:30:00",
+    "generation_actual": 10004,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 08:00:00",
+    "generation_actual": 10340,
+    "generation_forecast": 14988.0
+  },
+  {
+    "startTime": "2024-01-27 08:30:00",
+    "generation_actual": 10674,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 09:00:00",
+    "generation_actual": 11012,
+    "generation_forecast": 15020.0
+  },
+  {
+    "startTime": "2024-01-27 09:30:00",
+    "generation_actual": 11163,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 10:00:00",
+    "generation_actual": 11366,
+    "generation_forecast": 15058.0
+  },
+  {
+    "startTime": "2024-01-27 10:30:00",
+    "generation_actual": 11564,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 11:00:00",
+    "generation_actual": 11512,
+    "generation_forecast": 15023.0
+  },
+  {
+    "startTime": "2024-01-27 11:30:00",
+    "generation_actual": 11940,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 12:00:00",
+    "generation_actual": 11957,
+    "generation_forecast": 14878.0
+  },
+  {
+    "startTime": "2024-01-27 12:30:00",
+    "generation_actual": 11930,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 13:00:00",
+    "generation_actual": 11761,
+    "generation_forecast": 14409.0
+  },
+  {
+    "startTime": "2024-01-27 13:30:00",
+    "generation_actual": 12002,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 14:00:00",
+    "generation_actual": 11712,
+    "generation_forecast": 13684.0
+  },
+  {
+    "startTime": "2024-01-27 14:30:00",
+    "generation_actual": 11448,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 15:00:00",
+    "generation_actual": 11419,
+    "generation_forecast": 13018.0
+  },
+  {
+    "startTime": "2024-01-27 15:30:00",
+    "generation_actual": 11183,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 16:00:00",
+    "generation_actual": 11093,
+    "generation_forecast": 12689.0
+  },
+  {
+    "startTime": "2024-01-27 16:30:00",
+    "generation_actual": 11595,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 17:00:00",
+    "generation_actual": 11721,
+    "generation_forecast": 12807.0
+  },
+  {
+    "startTime": "2024-01-27 17:30:00",
+    "generation_actual": 11815,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 18:00:00",
+    "generation_actual": 11500,
+    "generation_forecast": 13159.0
+  },
+  {
+    "startTime": "2024-01-27 18:30:00",
+    "generation_actual": 11350,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 19:00:00",
+    "generation_actual": 11124,
+    "generation_forecast": 13896.0
+  },
+  {
+    "startTime": "2024-01-27 19:30:00",
+    "generation_actual": 11529,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 20:00:00",
+    "generation_actual": 11453,
+    "generation_forecast": 14762.0
+  },
+  {
+    "startTime": "2024-01-27 20:30:00",
+    "generation_actual": 11359,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 21:00:00",
+    "generation_actual": 11309,
+    "generation_forecast": 15417.0
+  },
+  {
+    "startTime": "2024-01-27 21:30:00",
+    "generation_actual": 11256,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 22:00:00",
+    "generation_actual": 11292,
+    "generation_forecast": 15806.0
+  },
+  {
+    "startTime": "2024-01-27 22:30:00",
+    "generation_actual": 11686,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-27 23:00:00",
+    "generation_actual": 11688,
+    "generation_forecast": 16075.0
+  },
+  {
+    "startTime": "2024-01-27 23:30:00",
+    "generation_actual": 11479,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 00:00:00",
+    "generation_actual": 11118,
+    "generation_forecast": 16149.0
+  },
+  {
+    "startTime": "2024-01-28 00:30:00",
+    "generation_actual": 11096,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 01:00:00",
+    "generation_actual": 11312,
+    "generation_forecast": 16249.0
+  },
+  {
+    "startTime": "2024-01-28 01:30:00",
+    "generation_actual": 11819,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 02:00:00",
+    "generation_actual": 11981,
+    "generation_forecast": 16274.0
+  },
+  {
+    "startTime": "2024-01-28 02:30:00",
+    "generation_actual": 12440,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 03:00:00",
+    "generation_actual": 12345,
+    "generation_forecast": 16432.0
+  },
+  {
+    "startTime": "2024-01-28 03:30:00",
+    "generation_actual": 12232,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 04:00:00",
+    "generation_actual": 12181,
+    "generation_forecast": 16574.0
+  },
+  {
+    "startTime": "2024-01-28 04:30:00",
+    "generation_actual": 12365,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 05:00:00",
+    "generation_actual": 12679,
+    "generation_forecast": 16698.0
+  },
+  {
+    "startTime": "2024-01-28 05:30:00",
+    "generation_actual": 12853,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 06:00:00",
+    "generation_actual": 12877,
+    "generation_forecast": 16832.0
+  },
+  {
+    "startTime": "2024-01-28 06:30:00",
+    "generation_actual": 12622,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 07:00:00",
+    "generation_actual": 12485,
+    "generation_forecast": 17099.0
+  },
+  {
+    "startTime": "2024-01-28 07:30:00",
+    "generation_actual": 12484,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 08:00:00",
+    "generation_actual": 12248,
+    "generation_forecast": 17206.0
+  },
+  {
+    "startTime": "2024-01-28 08:30:00",
+    "generation_actual": 11948,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 09:00:00",
+    "generation_actual": 12157,
+    "generation_forecast": 17283.0
+  },
+  {
+    "startTime": "2024-01-28 09:30:00",
+    "generation_actual": 12523,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 10:00:00",
+    "generation_actual": 12583,
+    "generation_forecast": 17041.0
+  },
+  {
+    "startTime": "2024-01-28 10:30:00",
+    "generation_actual": 12639,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 11:00:00",
+    "generation_actual": 12532,
+    "generation_forecast": 16991.0
+  },
+  {
+    "startTime": "2024-01-28 11:30:00",
+    "generation_actual": 13063,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 12:00:00",
+    "generation_actual": 13588,
+    "generation_forecast": 16774.0
+  },
+  {
+    "startTime": "2024-01-28 12:30:00",
+    "generation_actual": 13682,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 13:00:00",
+    "generation_actual": 13513,
+    "generation_forecast": 16829.0
+  },
+  {
+    "startTime": "2024-01-28 13:30:00",
+    "generation_actual": 13316,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 14:00:00",
+    "generation_actual": 13270,
+    "generation_forecast": 16733.0
+  },
+  {
+    "startTime": "2024-01-28 14:30:00",
+    "generation_actual": 13332,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 15:00:00",
+    "generation_actual": 13272,
+    "generation_forecast": 16981.0
+  },
+  {
+    "startTime": "2024-01-28 15:30:00",
+    "generation_actual": 13519,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 16:00:00",
+    "generation_actual": 13866,
+    "generation_forecast": 17265.0
+  },
+  {
+    "startTime": "2024-01-28 16:30:00",
+    "generation_actual": 13931,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 17:00:00",
+    "generation_actual": 14255,
+    "generation_forecast": 17693.0
+  },
+  {
+    "startTime": "2024-01-28 17:30:00",
+    "generation_actual": 14439,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 18:00:00",
+    "generation_actual": 14262,
+    "generation_forecast": 17722.0
+  },
+  {
+    "startTime": "2024-01-28 18:30:00",
+    "generation_actual": 14047,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 19:00:00",
+    "generation_actual": 13632,
+    "generation_forecast": 17313.0
+  },
+  {
+    "startTime": "2024-01-28 19:30:00",
+    "generation_actual": 13162,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 20:00:00",
+    "generation_actual": 12878,
+    "generation_forecast": 16491.0
+  },
+  {
+    "startTime": "2024-01-28 20:30:00",
+    "generation_actual": 12400,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 21:00:00",
+    "generation_actual": 12151,
+    "generation_forecast": 15433.0
+  },
+  {
+    "startTime": "2024-01-28 21:30:00",
+    "generation_actual": 11717,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 22:00:00",
+    "generation_actual": 11484,
+    "generation_forecast": 14178.0
+  },
+  {
+    "startTime": "2024-01-28 22:30:00",
+    "generation_actual": 10969,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-28 23:00:00",
+    "generation_actual": 10198,
+    "generation_forecast": 12869.0
+  },
+  {
+    "startTime": "2024-01-28 23:30:00",
+    "generation_actual": 9898,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 00:00:00",
+    "generation_actual": 9682,
+    "generation_forecast": 11733.0
+  },
+  {
+    "startTime": "2024-01-29 00:30:00",
+    "generation_actual": 8765,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 01:00:00",
+    "generation_actual": 7980,
+    "generation_forecast": 10264.0
+  },
+  {
+    "startTime": "2024-01-29 01:30:00",
+    "generation_actual": 6853,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 02:00:00",
+    "generation_actual": 6149,
+    "generation_forecast": 8804.0
+  },
+  {
+    "startTime": "2024-01-29 02:30:00",
+    "generation_actual": 5889,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 03:00:00",
+    "generation_actual": 5568,
+    "generation_forecast": 7510.0
+  },
+  {
+    "startTime": "2024-01-29 03:30:00",
+    "generation_actual": 4809,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 04:00:00",
+    "generation_actual": 4336,
+    "generation_forecast": 6403.0
+  },
+  {
+    "startTime": "2024-01-29 04:30:00",
+    "generation_actual": 4145,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 05:00:00",
+    "generation_actual": 3962,
+    "generation_forecast": 5382.0
+  },
+  {
+    "startTime": "2024-01-29 05:30:00",
+    "generation_actual": 3754,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 06:00:00",
+    "generation_actual": 3626,
+    "generation_forecast": 4424.0
+  },
+  {
+    "startTime": "2024-01-29 06:30:00",
+    "generation_actual": 3748,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 07:00:00",
+    "generation_actual": 4031,
+    "generation_forecast": 3881.0
+  },
+  {
+    "startTime": "2024-01-29 07:30:00",
+    "generation_actual": 3996,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 08:00:00",
+    "generation_actual": 3909,
+    "generation_forecast": 3586.0
+  },
+  {
+    "startTime": "2024-01-29 08:30:00",
+    "generation_actual": 3880,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 09:00:00",
+    "generation_actual": 3928,
+    "generation_forecast": 3328.0
+  },
+  {
+    "startTime": "2024-01-29 09:30:00",
+    "generation_actual": 3582,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 10:00:00",
+    "generation_actual": 3337,
+    "generation_forecast": 3176.0
+  },
+  {
+    "startTime": "2024-01-29 10:30:00",
+    "generation_actual": 3493,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 11:00:00",
+    "generation_actual": 3669,
+    "generation_forecast": 3102.0
+  },
+  {
+    "startTime": "2024-01-29 11:30:00",
+    "generation_actual": 3321,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 12:00:00",
+    "generation_actual": 2918,
+    "generation_forecast": 3068.0
+  },
+  {
+    "startTime": "2024-01-29 12:30:00",
+    "generation_actual": 3004,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 13:00:00",
+    "generation_actual": 3078,
+    "generation_forecast": 3085.0
+  },
+  {
+    "startTime": "2024-01-29 13:30:00",
+    "generation_actual": 3405,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 14:00:00",
+    "generation_actual": 3761,
+    "generation_forecast": 3294.0
+  },
+  {
+    "startTime": "2024-01-29 14:30:00",
+    "generation_actual": 3948,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 15:00:00",
+    "generation_actual": 4342,
+    "generation_forecast": 3693.0
+  },
+  {
+    "startTime": "2024-01-29 15:30:00",
+    "generation_actual": 5053,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 16:00:00",
+    "generation_actual": 5949,
+    "generation_forecast": 4314.0
+  },
+  {
+    "startTime": "2024-01-29 16:30:00",
+    "generation_actual": 6769,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 17:00:00",
+    "generation_actual": 7372,
+    "generation_forecast": 5104.0
+  },
+  {
+    "startTime": "2024-01-29 17:30:00",
+    "generation_actual": 7538,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 18:00:00",
+    "generation_actual": 8035,
+    "generation_forecast": 5889.0
+  },
+  {
+    "startTime": "2024-01-29 18:30:00",
+    "generation_actual": 8669,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 19:00:00",
+    "generation_actual": 9019,
+    "generation_forecast": 6668.0
+  },
+  {
+    "startTime": "2024-01-29 19:30:00",
+    "generation_actual": 9221,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 20:00:00",
+    "generation_actual": 9178,
+    "generation_forecast": 7337.0
+  },
+  {
+    "startTime": "2024-01-29 20:30:00",
+    "generation_actual": 9171,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 21:00:00",
+    "generation_actual": 9077,
+    "generation_forecast": 8418.0
+  },
+  {
+    "startTime": "2024-01-29 21:30:00",
+    "generation_actual": 8994,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 22:00:00",
+    "generation_actual": 8875,
+    "generation_forecast": 8740.0
+  },
+  {
+    "startTime": "2024-01-29 22:30:00",
+    "generation_actual": 8784,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-29 23:00:00",
+    "generation_actual": 8699,
+    "generation_forecast": 9044.0
+  },
+  {
+    "startTime": "2024-01-29 23:30:00",
+    "generation_actual": 9021,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 00:00:00",
+    "generation_actual": 9135,
+    "generation_forecast": 9302.0
+  },
+  {
+    "startTime": "2024-01-30 00:30:00",
+    "generation_actual": 9551,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 01:00:00",
+    "generation_actual": 9883,
+    "generation_forecast": 9406.0
+  },
+  {
+    "startTime": "2024-01-30 01:30:00",
+    "generation_actual": 10064,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 02:00:00",
+    "generation_actual": 10237,
+    "generation_forecast": 9395.0
+  },
+  {
+    "startTime": "2024-01-30 02:30:00",
+    "generation_actual": 10203,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 03:00:00",
+    "generation_actual": 10370,
+    "generation_forecast": 9341.0
+  },
+  {
+    "startTime": "2024-01-30 03:30:00",
+    "generation_actual": 10407,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 04:00:00",
+    "generation_actual": 10203,
+    "generation_forecast": 9180.0
+  },
+  {
+    "startTime": "2024-01-30 04:30:00",
+    "generation_actual": 10038,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 05:00:00",
+    "generation_actual": 10076,
+    "generation_forecast": 9064.0
+  },
+  {
+    "startTime": "2024-01-30 05:30:00",
+    "generation_actual": 10233,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 06:00:00",
+    "generation_actual": 10215,
+    "generation_forecast": 8848.0
+  },
+  {
+    "startTime": "2024-01-30 06:30:00",
+    "generation_actual": 10197,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 07:00:00",
+    "generation_actual": 10107,
+    "generation_forecast": 8560.0
+  },
+  {
+    "startTime": "2024-01-30 07:30:00",
+    "generation_actual": 9934,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 08:00:00",
+    "generation_actual": 9672,
+    "generation_forecast": 8300.0
+  },
+  {
+    "startTime": "2024-01-30 08:30:00",
+    "generation_actual": 9438,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 09:00:00",
+    "generation_actual": 9195,
+    "generation_forecast": 8205.0
+  },
+  {
+    "startTime": "2024-01-30 09:30:00",
+    "generation_actual": 9069,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 10:00:00",
+    "generation_actual": 9066,
+    "generation_forecast": 8025.0
+  },
+  {
+    "startTime": "2024-01-30 10:30:00",
+    "generation_actual": 9243,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 11:00:00",
+    "generation_actual": 9565,
+    "generation_forecast": 7816.0
+  },
+  {
+    "startTime": "2024-01-30 11:30:00",
+    "generation_actual": 9283,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 12:00:00",
+    "generation_actual": 8628,
+    "generation_forecast": 7706.0
+  },
+  {
+    "startTime": "2024-01-30 12:30:00",
+    "generation_actual": 8437,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 13:00:00",
+    "generation_actual": 8442,
+    "generation_forecast": 7446.0
+  },
+  {
+    "startTime": "2024-01-30 13:30:00",
+    "generation_actual": 8412,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 14:00:00",
+    "generation_actual": 8626,
+    "generation_forecast": 7105.0
+  },
+  {
+    "startTime": "2024-01-30 14:30:00",
+    "generation_actual": 8149,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 15:00:00",
+    "generation_actual": 7823,
+    "generation_forecast": 6837.0
+  },
+  {
+    "startTime": "2024-01-30 15:30:00",
+    "generation_actual": 7826,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 16:00:00",
+    "generation_actual": 7604,
+    "generation_forecast": 6711.0
+  },
+  {
+    "startTime": "2024-01-30 16:30:00",
+    "generation_actual": 7238,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 17:00:00",
+    "generation_actual": 7193,
+    "generation_forecast": 6642.0
+  },
+  {
+    "startTime": "2024-01-30 17:30:00",
+    "generation_actual": 7008,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 18:00:00",
+    "generation_actual": 6626,
+    "generation_forecast": 6717.0
+  },
+  {
+    "startTime": "2024-01-30 18:30:00",
+    "generation_actual": 6483,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 19:00:00",
+    "generation_actual": 6415,
+    "generation_forecast": 6982.0
+  },
+  {
+    "startTime": "2024-01-30 19:30:00",
+    "generation_actual": 6509,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 20:00:00",
+    "generation_actual": 6622,
+    "generation_forecast": 7211.0
+  },
+  {
+    "startTime": "2024-01-30 20:30:00",
+    "generation_actual": 6700,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 21:00:00",
+    "generation_actual": 7217,
+    "generation_forecast": 8468.0
+  },
+  {
+    "startTime": "2024-01-30 21:30:00",
+    "generation_actual": 7247,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 22:00:00",
+    "generation_actual": 7214,
+    "generation_forecast": 9248.0
+  },
+  {
+    "startTime": "2024-01-30 22:30:00",
+    "generation_actual": 7688,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-30 23:00:00",
+    "generation_actual": 7592,
+    "generation_forecast": 9778.0
+  },
+  {
+    "startTime": "2024-01-30 23:30:00",
+    "generation_actual": 7049,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 00:00:00",
+    "generation_actual": 7009,
+    "generation_forecast": 10152.0
+  },
+  {
+    "startTime": "2024-01-31 00:30:00",
+    "generation_actual": 7207,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 01:00:00",
+    "generation_actual": 7248,
+    "generation_forecast": 10529.0
+  },
+  {
+    "startTime": "2024-01-31 01:30:00",
+    "generation_actual": 7371,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 02:00:00",
+    "generation_actual": 7463,
+    "generation_forecast": 10970.0
+  },
+  {
+    "startTime": "2024-01-31 02:30:00",
+    "generation_actual": 7964,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 03:00:00",
+    "generation_actual": 8175,
+    "generation_forecast": 11477.0
+  },
+  {
+    "startTime": "2024-01-31 03:30:00",
+    "generation_actual": 8432,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 04:00:00",
+    "generation_actual": 8687,
+    "generation_forecast": 12053.0
+  },
+  {
+    "startTime": "2024-01-31 04:30:00",
+    "generation_actual": 8908,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 05:00:00",
+    "generation_actual": 9519,
+    "generation_forecast": 12822.0
+  },
+  {
+    "startTime": "2024-01-31 05:30:00",
+    "generation_actual": 10010,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 06:00:00",
+    "generation_actual": 10509,
+    "generation_forecast": 13307.0
+  },
+  {
+    "startTime": "2024-01-31 06:30:00",
+    "generation_actual": 11156,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 07:00:00",
+    "generation_actual": 11728,
+    "generation_forecast": 13909.0
+  },
+  {
+    "startTime": "2024-01-31 07:30:00",
+    "generation_actual": 12411,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 08:00:00",
+    "generation_actual": 12836,
+    "generation_forecast": 14561.0
+  },
+  {
+    "startTime": "2024-01-31 08:30:00",
+    "generation_actual": 13321,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 09:00:00",
+    "generation_actual": 13747,
+    "generation_forecast": 14912.0
+  },
+  {
+    "startTime": "2024-01-31 09:30:00",
+    "generation_actual": 13602,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 10:00:00",
+    "generation_actual": 14183,
+    "generation_forecast": 15453.0
+  },
+  {
+    "startTime": "2024-01-31 10:30:00",
+    "generation_actual": 14245,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 11:00:00",
+    "generation_actual": 14352,
+    "generation_forecast": 14782.0
+  },
+  {
+    "startTime": "2024-01-31 11:30:00",
+    "generation_actual": 14739,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 12:00:00",
+    "generation_actual": 15177,
+    "generation_forecast": 15656.0
+  },
+  {
+    "startTime": "2024-01-31 12:30:00",
+    "generation_actual": 15701,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 13:00:00",
+    "generation_actual": 15997,
+    "generation_forecast": 18116.0
+  },
+  {
+    "startTime": "2024-01-31 13:30:00",
+    "generation_actual": 15868,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 14:00:00",
+    "generation_actual": 15818,
+    "generation_forecast": 18483.0
+  },
+  {
+    "startTime": "2024-01-31 14:30:00",
+    "generation_actual": 15691,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 15:00:00",
+    "generation_actual": 15911,
+    "generation_forecast": 18400.0
+  },
+  {
+    "startTime": "2024-01-31 15:30:00",
+    "generation_actual": 15865,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 16:00:00",
+    "generation_actual": 15762,
+    "generation_forecast": 18211.0
+  },
+  {
+    "startTime": "2024-01-31 16:30:00",
+    "generation_actual": 15544,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 17:00:00",
+    "generation_actual": 15683,
+    "generation_forecast": 17992.0
+  },
+  {
+    "startTime": "2024-01-31 17:30:00",
+    "generation_actual": 15654,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 18:00:00",
+    "generation_actual": 15411,
+    "generation_forecast": 18208.0
+  },
+  {
+    "startTime": "2024-01-31 18:30:00",
+    "generation_actual": 15736,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 19:00:00",
+    "generation_actual": 15812,
+    "generation_forecast": 18033.0
+  },
+  {
+    "startTime": "2024-01-31 19:30:00",
+    "generation_actual": 15661,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 20:00:00",
+    "generation_actual": 15684,
+    "generation_forecast": 17782.0
+  },
+  {
+    "startTime": "2024-01-31 20:30:00",
+    "generation_actual": 15827,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 21:00:00",
+    "generation_actual": 15757,
+    "generation_forecast": 17912.0
+  },
+  {
+    "startTime": "2024-01-31 21:30:00",
+    "generation_actual": 15719,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 22:00:00",
+    "generation_actual": 15490,
+    "generation_forecast": 17670.0
+  },
+  {
+    "startTime": "2024-01-31 22:30:00",
+    "generation_actual": 14908,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-01-31 23:00:00",
+    "generation_actual": 14595,
+    "generation_forecast": 16909.0
+  },
+  {
+    "startTime": "2024-01-31 23:30:00",
+    "generation_actual": 14355,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 00:00:00",
+    "generation_actual": 14307,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 00:30:00",
+    "generation_actual": 14257,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 01:00:00",
+    "generation_actual": 13888,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 01:30:00",
+    "generation_actual": 13789,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 02:00:00",
+    "generation_actual": 13579,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 02:30:00",
+    "generation_actual": 13658,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 03:00:00",
+    "generation_actual": 13253,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 03:30:00",
+    "generation_actual": 12650,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 04:00:00",
+    "generation_actual": 12297,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 04:30:00",
+    "generation_actual": 12346,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 05:00:00",
+    "generation_actual": 12410,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 05:30:00",
+    "generation_actual": 12151,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 06:00:00",
+    "generation_actual": 11765,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 06:30:00",
+    "generation_actual": 11626,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 07:00:00",
+    "generation_actual": 11272,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 07:30:00",
+    "generation_actual": 10820,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 08:00:00",
+    "generation_actual": 10611,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 08:30:00",
+    "generation_actual": 10774,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 09:00:00",
+    "generation_actual": 11028,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 09:30:00",
+    "generation_actual": 10661,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 10:00:00",
+    "generation_actual": 10568,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 10:30:00",
+    "generation_actual": 10505,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 11:00:00",
+    "generation_actual": 10269,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 11:30:00",
+    "generation_actual": 10611,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 12:00:00",
+    "generation_actual": 7051,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 12:30:00",
+    "generation_actual": 10723,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 13:00:00",
+    "generation_actual": 10800,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 13:30:00",
+    "generation_actual": 10645,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 14:00:00",
+    "generation_actual": 10200,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 14:30:00",
+    "generation_actual": 10237,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 15:00:00",
+    "generation_actual": 10799,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 15:30:00",
+    "generation_actual": 10939,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 16:00:00",
+    "generation_actual": 10880,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 16:30:00",
+    "generation_actual": 11102,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 17:00:00",
+    "generation_actual": 10703,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 17:30:00",
+    "generation_actual": 11179,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 18:00:00",
+    "generation_actual": 11551,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 18:30:00",
+    "generation_actual": 11530,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 19:00:00",
+    "generation_actual": 11495,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 19:30:00",
+    "generation_actual": 11309,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 20:00:00",
+    "generation_actual": 11972,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 20:30:00",
+    "generation_actual": 12485,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 21:00:00",
+    "generation_actual": 12832,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 21:30:00",
+    "generation_actual": 12888,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 22:00:00",
+    "generation_actual": 12752,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 22:30:00",
+    "generation_actual": 12581,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 23:00:00",
+    "generation_actual": 12777,
+    "generation_forecast": null
+  },
+  {
+    "startTime": "2024-02-01 23:30:00",
+    "generation_actual": 13010,
+    "generation_forecast": null
+  }
+]
